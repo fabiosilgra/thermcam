@@ -69,6 +69,14 @@ function cardHtml(p) {
 
 // ---------- Layout ----------
 const layoutTpl = read('src/layout.html');
+// Logo e ícones (gerados a partir do logo oficial em assets/)
+const logoFile = 'logo.png';
+const brandHtml = `<img class="logo-img" src="${BASE}/assets/logo.png" alt="${esc(cfg.name)}" width="220" height="54">`;
+const brandFooterHtml = `<img class="logo-img" src="${BASE}/assets/logo-white.png" alt="${esc(cfg.name)}" width="220" height="54" loading="lazy">`;
+const iconsHtml = `<link rel="icon" href="${BASE}/assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="${BASE}/assets/favicon-32.png">
+<link rel="apple-touch-icon" href="${BASE}/assets/apple-touch-icon.png">
+<link rel="manifest" href="${BASE}/site.webmanifest">`;
 const waLink = (msg) => `https://wa.me/${cfg.whatsapp}?text=${encodeURIComponent(msg)}`;
 function page({ title, description, path: p, body, jsonld = [], image = '', type = 'website', noindex = false, keywords = '' }) {
   const canonical = `${SITE}${p}`;
@@ -77,7 +85,7 @@ function page({ title, description, path: p, body, jsonld = [], image = '', type
     title: esc(title), description: esc(description), canonical, keywords: esc(keywords),
     og_image: esc(imageAbs(image)), og_type: type, jsonld: ld, body,
     robots: noindex ? 'noindex,nofollow' : 'index,follow,max-image-preview:large',
-    base: BASE, site: SITE, name: esc(cfg.name), phone: esc(cfg.phone),
+    brand: brandHtml, brand_footer: brandFooterHtml, icons: iconsHtml, base: BASE, site: SITE, name: esc(cfg.name), phone: esc(cfg.phone),
     wa: waLink('Olá! Vim pelo site e gostaria de um orçamento de câmara fria.'),
     email: esc(cfg.email), instagram: cfg.instagram, facebook: cfg.facebook,
     address: esc(`${cfg.address.street}, ${cfg.address.district}, ${cfg.address.city} - ${cfg.address.state}`),
@@ -92,7 +100,7 @@ const business = {
   '@id': `${SITE}/#negocio`,
   name: cfg.name, url: SITE + '/', description: cfg.description,
   telephone: '+' + cfg.whatsapp, email: cfg.email,
-  image: `${SITE}/assets/og-default.png`,
+  image: `${SITE}/assets/og-default.png`, logo: `${SITE}/assets/logo.png`,
   address: {
     '@type': 'PostalAddress', streetAddress: cfg.address.street, addressLocality: cfg.address.city,
     addressRegion: cfg.address.state, addressCountry: cfg.address.country,
@@ -114,7 +122,7 @@ const projFiles = fs.existsSync(projDir) ? fs.readdirSync(projDir).filter((f) =>
 const projectsHtml = projFiles.length
   ? projFiles.map((f, i) => `<figure class="proj"><img src="${BASE}/assets/img/projetos/${f}" alt="Projeto de câmara fria Thermcam ${i + 1}" loading="lazy"></figure>`).join('\n')
   : ['Câmara de resfriados', 'Câmara de congelados', 'Painéis isotérmicos', 'Porta frigorífica'].map((t, i) =>
-    `<figure class="proj proj-ph" style="--h:${190 + i * 14}"><svg viewBox="0 0 64 64" aria-hidden="true"><g stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M32 8v48M11 20l42 24M11 44l42-24"/></g></svg><figcaption>${t}</figcaption></figure>`).join('\n');
+    `<figure class="proj proj-ph" style="--h:${190 + i * 14}"><img src="${BASE}/assets/symbol-white.png" alt="" width="64" height="64"><figcaption>${t}</figcaption></figure>`).join('\n');
 
 const homeBody = fill(read('src/home.html'), {
   base: BASE, faq: faqHtml, projects: projectsHtml,
@@ -170,7 +178,7 @@ posts.forEach((p) => {
       image: [imageAbs(p.image)], datePublished: p.date, dateModified: p.date, inLanguage: 'pt-BR',
       mainEntityOfPage: url, keywords: p.keywords,
       author: { '@type': 'Organization', name: cfg.name, url: SITE + '/' },
-      publisher: { '@type': 'Organization', name: cfg.name, logo: { '@type': 'ImageObject', url: `${SITE}/assets/favicon.svg` } },
+      publisher: { '@type': 'Organization', name: cfg.name, logo: { '@type': 'ImageObject', url: logoFile ? `${SITE}/assets/${logoFile}` : `${SITE}/assets/favicon.svg` } },
     }, {
       '@context': 'https://schema.org', '@type': 'BreadcrumbList',
       itemListElement: [['Início', SITE + '/'], ['Notícias', SITE + '/noticias/'], [p.title, url]]
@@ -192,5 +200,11 @@ write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><c
 // ---------- Arquivos estáticos ----------
 fs.cpSync(path.join(root, 'assets'), path.join(dist, 'assets'), { recursive: true });
 fs.cpSync(path.join(root, 'admin'), path.join(dist, 'admin'), { recursive: true });
+fs.copyFileSync(path.join(root, 'assets/favicon.ico'), path.join(dist, 'favicon.ico'));
+write('site.webmanifest', JSON.stringify({
+  name: cfg.name, short_name: cfg.shortName, start_url: `${BASE}/`, scope: `${BASE}/`, display: 'standalone',
+  background_color: '#ffffff', theme_color: '#06162b', lang: 'pt-BR',
+  icons: [192, 512].map((s) => ({ src: `${BASE}/assets/icon-${s}.png`, sizes: `${s}x${s}`, type: 'image/png' })),
+}, null, 2));
 fs.writeFileSync(path.join(dist, '.nojekyll'), '');
 console.log(`OK: ${posts.length} matérias publicadas · base="${BASE}" · ${SITE}`);

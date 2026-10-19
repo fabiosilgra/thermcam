@@ -7,9 +7,9 @@
 <meta name="description" content="{{description}}">
 <meta name="keywords" content="{{keywords}}">
 <meta name="robots" content="{{robots}}">
-<meta name="theme-color" content="#06162b">
+<meta name="theme-color" content="#ffffff">
 <link rel="canonical" href="{{canonical}}">
-<link rel="icon" href="{{base}}/assets/favicon.svg" type="image/svg+xml">
+{{icons}}
 <link rel="alternate" type="application/rss+xml" title="{{name}}" href="{{site}}/feed.xml">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="{{og_type}}">
@@ -29,10 +29,7 @@
 <a class="skip" href="#main">Pular para o conteúdo</a>
 <header class="site-header" id="top">
   <div class="wrap bar">
-    <a class="brand" href="{{base}}/" aria-label="{{name}} — início">
-      <svg viewBox="0 0 64 64" width="34" height="34" aria-hidden="true"><g stroke="#22d3ee" stroke-width="5" stroke-linecap="round"><path d="M32 8v48M11 20l42 24M11 44l42-24"/></g><circle cx="32" cy="32" r="6" fill="#ff7a1a"/></svg>
-      <span>Therm<b>cam</b></span>
-    </a>
+    <a class="brand" href="{{base}}/" aria-label="{{name}} — início">{{brand}}</a>
     <button class="burger" id="burger" aria-label="Abrir menu" aria-expanded="false"><i></i><i></i><i></i></button>
     <nav class="nav" id="nav" aria-label="Principal">
       <a href="{{base}}/#servicos">Serviços</a>
@@ -51,7 +48,7 @@
 <footer class="site-footer">
   <div class="wrap foot">
     <div>
-      <a class="brand" href="{{base}}/"><span>Therm<b>cam</b></span></a>
+      <a class="brand" href="{{base}}/">{{brand_footer}}</a>
       <p>Câmaras frias, painéis isotérmicos e refrigeração comercial em São Paulo e região.</p>
     </div>
     <div>
