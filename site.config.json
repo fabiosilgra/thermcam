@@ -1,0 +1,72 @@
+{
+  "name": "Thermcam Refrigeração",
+  "shortName": "Thermcam",
+  "url": "https://SEU-USUARIO.github.io/thermcam",
+  "tagline": "Câmaras frias e refrigeração comercial em São Paulo",
+  "description": "Montagem e manutenção de câmaras frias, painéis isotérmicos e refrigeração comercial em São Paulo e região. Projetos sob medida, garantia e atendimento ágil.",
+  "phone": "(11) 99193-5871",
+  "whatsapp": "5511991935871",
+  "email": "thermcam@thermcam.com.br",
+  "address": {
+    "street": "Rua Vitória do Espírito Santo, 151",
+    "district": "Itaim Paulista",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "BR"
+  },
+  "instagram": "https://instagram.com/thermcam",
+  "facebook": "https://facebook.com/Thermcam",
+  "newsKeywords": [
+    "câmara fria",
+    "refrigeração comercial",
+    "câmara frigorífica",
+    "frio alimentar",
+    "cadeia do frio",
+    "painel isotérmico",
+    "manutenção de refrigeração",
+    "açougue câmara fria",
+    "refrigeração industrial"
+  ],
+  "faq": [
+    {
+      "q": "O que é uma câmara fria e para que serve?",
+      "a": "É um ambiente isolado termicamente, com equipamentos de refrigeração, que mantém alimentos, bebidas e outros produtos em temperatura controlada. Serve para conservar a qualidade, estender a validade e reduzir perdas."
+    },
+    {
+      "q": "Qual a diferença entre câmara de resfriados e de congelados?",
+      "a": "A câmara de resfriados trabalha com temperaturas positivas, normalmente de 0 °C a 5 °C, ideal para carnes frescas, laticínios, frutas e bebidas. A de congelados opera em temperaturas negativas, em geral a −18 °C ou menos, para conservação de longo prazo."
+    },
+    {
+      "q": "A Thermcam faz projeto sob medida?",
+      "a": "Sim. Avaliamos o espaço, o tipo de produto armazenado, o volume e a rotina de uso para dimensionar a câmara e os equipamentos corretos para o seu negócio."
+    },
+    {
+      "q": "Quanto tempo leva a montagem de uma câmara fria?",
+      "a": "O prazo depende do tamanho, do tipo de painel e das condições do local. Após a visita técnica e a aprovação do projeto, informamos o cronograma na proposta."
+    },
+    {
+      "q": "Vocês fazem manutenção preventiva e corretiva?",
+      "a": "Fazemos os dois tipos. A preventiva evita paradas e desperdício de energia; a corretiva resolve falhas com rapidez para você não perder mercadoria."
+    },
+    {
+      "q": "Quais negócios costumam usar câmara fria?",
+      "a": "Açougues, mercados, restaurantes, padarias, adegas, distribuidoras de bebidas, hortifrútis e qualquer operação que precise manter produtos refrigerados ou congelados."
+    },
+    {
+      "q": "Os serviços e equipamentos têm garantia?",
+      "a": "Sim. Trabalhamos com garantia sobre equipamentos e serviços, conforme as condições descritas na proposta."
+    },
+    {
+      "q": "Quais marcas de equipamentos vocês utilizam?",
+      "a": "Trabalhamos com marcas reconhecidas do mercado, como Elgin e Danfoss, escolhendo a solução mais adequada para cada projeto."
+    },
+    {
+      "q": "Quais regiões vocês atendem?",
+      "a": "Atendemos São Paulo e região metropolitana. Para outras regiões, consulte a disponibilidade pelo WhatsApp."
+    },
+    {
+      "q": "Como peço um orçamento?",
+      "a": "Chame no WhatsApp (11) 99193-5871 ou preencha o formulário de contato. Combinamos uma visita técnica e enviamos a proposta."
+    }
+  ]
+}

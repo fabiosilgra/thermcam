@@ -1,0 +1,102 @@
+<section class="hero">
+  <div class="snow" aria-hidden="true"></div>
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <span class="eyebrow">Refrigeração comercial e industrial · São Paulo</span>
+      <h1>Câmara fria sob medida para o seu negócio <em>render mais</em> e perder menos.</h1>
+      <p>Montagem, manutenção preventiva e corretiva de câmaras frias e painéis isotérmicos. Projeto no tamanho certo, instalação limpa e garantia.</p>
+      <div class="btn-row">
+        <a class="btn btn-wa btn-lg" href="{{wa}}" target="_blank" rel="noopener">Pedir orçamento no WhatsApp</a>
+        <a class="btn btn-ghost btn-lg" href="#servicos">Ver serviços</a>
+      </div>
+      <ul class="trust">
+        <li>✔ Projeto sob medida</li><li>✔ Garantia</li><li>✔ Atendimento ágil</li>
+      </ul>
+    </div>
+    <div class="hero-card" aria-hidden="true">
+      <div class="temp"><small>Congelados</small><strong>−18°C</strong><span class="pulse"></span></div>
+      <div class="temp t2"><small>Resfriados</small><strong>+2°C</strong><span class="pulse"></span></div>
+      <p>Temperatura estável, produto conservado.</p>
+    </div>
+  </div>
+</section>
+
+<section class="strip"><div class="wrap strip-in">
+  <span>Atendemos</span><b>Açougues</b><b>Mercados</b><b>Restaurantes</b><b>Padarias</b><b>Adegas</b><b>Bebidas</b>
+</div></section>
+
+<section class="section" id="servicos">
+  <div class="wrap">
+    <span class="eyebrow dark">Serviços</span>
+    <h2 class="h-sec">Tudo para o frio do seu comércio funcionar</h2>
+    <div class="cols3">
+      <article class="feat reveal"><div class="ico">❄</div><h3>Montagem de câmaras frias</h3><p>Instalação completa de câmaras de resfriados e congelados, com painéis isotérmicos, portas e todo o sistema de refrigeração.</p></article>
+      <article class="feat reveal"><div class="ico">🛠</div><h3>Manutenção preventiva e corretiva</h3><p>Revisões programadas para evitar paradas e conserto rápido quando algo falha. Menos desperdício, menos prejuízo.</p></article>
+      <article class="feat reveal"><div class="ico">📐</div><h3>Projetos sob medida</h3><p>Avaliamos o espaço, o produto e o volume para dimensionar a câmara certa — sem pagar por capacidade que você não usa.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="section alt" id="sobre">
+  <div class="wrap about">
+    <div>
+      <span class="eyebrow dark">Sobre a Thermcam</span>
+      <h2 class="h-sec">Soluções de refrigeração que preservam o frescor e a qualidade</h2>
+      <p>A Thermcam é especializada em câmaras frias e refrigeração comercial. Cuidamos do projeto, da montagem e da manutenção para que o seu produto chegue ao cliente com a qualidade que você prometeu.</p>
+      <p>Trabalhamos com equipamentos de marcas reconhecidas, como <b>Elgin</b> e <b>Danfoss</b>, e atendemos São Paulo e região com agilidade e atendimento personalizado.</p>
+    </div>
+    <div class="cols1">
+      <div class="mini"><b>Segurança</b><span>Instalação correta e equipamentos confiáveis.</span></div>
+      <div class="mini"><b>Eficiência</b><span>Isolamento e dimensionamento que reduzem consumo de energia.</span></div>
+      <div class="mini"><b>Economia</b><span>Menos perda de mercadoria e menos paradas.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="projetos">
+  <div class="wrap">
+    <span class="eyebrow dark">Projetos realizados</span>
+    <h2 class="h-sec">Câmaras frias que já estão funcionando</h2>
+    <div class="gallery">{{projects}}</div>
+  </div>
+</section>
+
+<section class="section alt" id="noticias">
+  <div class="wrap">
+    <div class="sec-head"><div><span class="eyebrow dark">Portal Thermcam</span><h2 class="h-sec">Notícias e dicas sobre câmara fria</h2></div>
+    <a class="btn btn-ghost-dark" href="{{base}}/noticias/">Ver todas</a></div>
+    <div class="grid">{{latest}}</div>
+  </div>
+</section>
+
+<section class="section" id="duvidas">
+  <div class="wrap-narrow">
+    <span class="eyebrow dark">Dúvidas frequentes</span>
+    <h2 class="h-sec">Perguntas que todo cliente faz</h2>
+    <div class="faq">{{faq}}</div>
+  </div>
+</section>
+
+<section class="section contact" id="contato">
+  <div class="wrap contact-grid">
+    <div>
+      <span class="eyebrow">Contato</span>
+      <h2 class="h-sec light">Peça seu orçamento sem compromisso</h2>
+      <p>Conte o que você precisa e respondemos pelo WhatsApp.</p>
+      <ul class="clist">
+        <li><b>WhatsApp</b><a href="{{wa}}" target="_blank" rel="noopener">{{phone}}</a></li>
+        <li><b>E-mail</b><a href="mailto:{{email}}">{{email}}</a></li>
+        <li><b>Endereço</b>{{address}}</li>
+      </ul>
+    </div>
+    <form class="form" id="contactForm" novalidate>
+      <label>Nome<input name="nome" required autocomplete="name"></label>
+      <label>Telefone<input name="tel" type="tel" autocomplete="tel"></label>
+      <label>Assunto
+        <select name="assunto"><option>Montar câmara fria</option><option>Manutenção</option><option>Painéis e portas</option><option>Outro assunto</option></select>
+      </label>
+      <label>Mensagem<textarea name="msg" rows="4"></textarea></label>
+      <button class="btn btn-wa btn-lg" type="submit">Enviar pelo WhatsApp</button>
+    </form>
+  </div>
+</section>
