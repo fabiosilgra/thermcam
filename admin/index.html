@@ -152,10 +152,12 @@ $$('.tab').forEach(b=>b.onclick=()=>tab(b.dataset.t));
 
 // Config
 ['owner','repo','branch','token'].forEach(k=>{const v=store.get('tc_'+k);if(v)$('#'+k).value=v;});
-const cfg=()=>({o:$('#owner').value.trim(),r:$('#repo').value.trim(),b:$('#branch').value.trim()||'main',t:$('#token').value.trim()});
+const cfg=()=>({o:$('#owner').value.replace(/\s/g,''),r:$('#repo').value.replace(/\s/g,''),b:$('#branch').value.replace(/\s/g,'')||'main',t:$('#token').value.replace(/[^\x21-\x7E]/g,'')});
 async function gh(path,opt={}){
   const c=cfg(); if(!c.o||!c.r||!c.t) throw new Error('Preencha a aba “Conexão” primeiro.');
-  const res=await fetch(`https://api.github.com/repos/${c.o}/${c.r}/${path}`,{...opt,headers:{Accept:'application/vnd.github+json',Authorization:'Bearer '+c.t,...(opt.headers||{})}});
+  let res;
+  try{res=await fetch(`https://api.github.com/repos/${encodeURIComponent(c.o)}/${encodeURIComponent(c.r)}${path?'/'+path:''}`,{...opt,headers:{Accept:'application/vnd.github+json',Authorization:'Bearer '+c.t,...(opt.headers||{})}});}
+  catch(e){throw new Error('Não consegui falar com o GitHub (Failed to fetch). Tente: 1) desativar bloqueador de anúncios/extensões para este site, 2) abrir numa aba anônima ou outro navegador, 3) conferir a internet. Se o token tiver espaços ou quebras de linha, gere-o de novo.');}
   if(res.status===404&&opt.method!=='PUT'&&opt.method!=='DELETE') return null;
   if(!res.ok){let d='';try{d=(await res.json()).message}catch(e){} throw new Error(`GitHub ${res.status}: ${d||'erro'}`);}
   return res.status===204?{}:res.json();
