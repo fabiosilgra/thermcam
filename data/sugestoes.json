@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-07T14:46:28.920Z",
+  "updatedAt": "2026-11-08T14:52:31.135Z",
   "items": [
+    {
+      "title": "Pentágono investiga suspeita de ataque hacker contra congeladores em bases militares",
+      "source": "Cyber Security Brazil",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYk92NmpFcFpXMy0zOWNxVVFraVBOQXJ0RllqWlhQWW9HR21zdTdZZjgyekMyaVNGQk9taVRMRHVHZ1RBOXV2MUp3WWlQOHJfYjFTMXJ3bTZjODlQT0w2dUdpZjEtMTAyMFRkMnFYNFA3TlZEZktrQVJmU1ZmcmE5MExfVjQ5N2xBRlphMWg0QnVlWnBmc2dCMUxrU2Mya3ZKV2l5RGwzdWVKQzdOcjZhb0RsSnkxN2p3ZmpKUmFJM2xqX0RDTVdn?oc=5",
+      "date": "2026-11-07T22:53:52.000Z",
+      "keyword": "cadeia do frio"
+    },
     {
       "title": "EUA alertam para ciberataques contra sistemas de refrigeração",
       "source": "Revista do Frio",
@@ -14,6 +21,13 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdnplUWdPM2dObDhhdGdMN3ZrQ001NU42aF85TVFPOHBlNXVuMVFqeHdaZWZtYmxMU2NwT2QtZlRDZGEtNEhNTXBsWGJZWWIwbnRiQllna09tTk1uMGJCMDNtdHF1cWFKbVRTb01uekc5TnFDT3pXMVZ3OFlSbi1scjZCX1NXX3lTZWs5OGFyUWxZM1JOMkhpaVZBYjBLOGNpeW1IRmp0T2pnRVdPOU1hU3ZrX1NBMERjY05R?oc=5",
       "date": "2026-11-06T18:17:16.000Z",
       "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "Textura, aroma e sabor são critérios do Prêmio Queijos do Paraná",
+      "source": "Folha do Litoral News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHpzYjZnVFV6ald5TG1hdVNNNWhzUXUxbEJhSDN2Ukptd2NyRUp3bDl4T0FRcE9icTkzLXNHOXB0bDMwYThWNGlGb0xFUWt3aURVX0lLNDViZ25fa1ZqVmNkbHZtU1hDOE1KTUFGNWl2cjZVNU4xWUgyT0diVGxoQmw2MVpWV19PVzhMWkJQMjZxWGdkVmpObm8wMGR5ejZIclpVVGwzX1B0Y3RFN3hmREVR?oc=5",
+      "date": "2026-11-06T16:41:14.000Z",
+      "keyword": "câmara fria"
     },
     {
       "title": "Cibersegurança em IoT: o que os recentes ataques a infraestruturas conectadas ensinam sobre vulnerabilidades críticas",
@@ -37,13 +51,6 @@
       "keyword": "manutenção de refrigeração"
     },
     {
-      "title": "Aplicação de IA na cadeia de frio de frutas e vegetais exportados.",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Na1gzSl9lZHF0THVlVzJ1NFhJVllYc0RNYXJTa0VTcVBBRVBEUGdLY0E1QWhlTnFSLWhsTjJHWE5lRlBfcWgzVk1PaHdrWUc0SXFlQXZHMldLZ3FuU0FQQkdWV2VaSDZoLWRuc1RaREV6QnZkSHNuc0pabUtWQQ?oc=5",
-      "date": "2026-11-06T04:21:05.000Z",
-      "keyword": "cadeia do frio"
-    },
-    {
       "title": "São Rafael expõe com sucesso na Hotel Food Nordeste 2026",
       "source": "Revista Hotéis",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnNCTWYyanlFdXdLZUtYdWxMV2hneHdCN2NjWnRMc2V4cjZSQUc2RWRXYlJzdWljaHFiS3RDVHpXQ0FHak55NFhOWUVzTEdaNTVwRFJyOEhFZmRkN1BLSnJqa0F2TlBaTHBCTUFCcmd0d2hjcC1IN1IwT2Q3d0ZGdkpJc0hlVUM1RF9Yd3BaRQ?oc=5",
@@ -53,14 +60,21 @@
     {
       "title": "EUA alertam para 'ameaça cibernética contínua' a sistemas de refrigeração industrial",
       "source": "Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHl3MkRTWmQ2LTI5dm1YMlEtc3FfbUF4LS1rUEhFT1dnOENmV1ZxUEFVbS00QnhkMkVaby0ybDVxdDU2aDZNRTUzOEVtMTcybVpzNWFkbjZETVBwdlZiODRfSkZNTkVkclhUT3BzU0xBY2N2bko1andXMWFDbTNvUHhncXZqaklwc3JCaTFWaHFSdFVLOURIZ3UwTmFqMGNXd1V4OGtRYk40VWJETG1oS2xlV0czOGhzTzFIeGdXcWZWemdWZkV5ejZadm5WTzd0MTIxM0M0RFBWaHPSAdsBQVVfeXFMTnB5dzJEU1pkNi0yOXZtWDJRLXNxX21BeC0ta1BIRU9XZzhDZldWcVBBVW0tNEJ4ZDJFWm8tMmw1cXQ1Nmg2TUU1MzhFbTE3Mm1aczVhZG42RE1QcHZWYjg0X0pGTU5FZHJYVE9wc1NMQWNjdm5KNWp3VzFhQ20zb1B4Z3F2ampJcHNyQmkxVmhxUnRVSzlESGd1ME5hajBjV3dVeDhrUWJONFViRExtaEtsZVdHMzhoc08xSHhnV3FmVnpnVmZFeXo2WnZuVk83dDEyMTNDNERQVmhz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjdpY1RVQzJOUVBoZlVWTXhnbmtFZGlSdmUwNFZjYXgtbkZFZjUxWnRRS3ZCd0ZrY21TMkgzZHNMaVFkODRTUS1xbjR2Q0RBQTZsRDk0cWNETTlGaW5xNWFvM2VSNF9OZ0l3U09qR3dFMVd4aWZFUWlPWWM3MnRfbzlNNWkxMVpBSTRIbUU5YmN2QmZnZk0tWnpQVlQ1amFsQWNBX0ZvS3F1Z2VfNWpyWXNKQUZwQ1NQYmlCMDlfbVNFd1UwaDlldnNsX23SAdsBQVVfeXFMTnB5dzJEU1pkNi0yOXZtWDJRLXNxX21BeC0ta1BIRU9XZzhDZldWcVBBVW0tNEJ4ZDJFWm8tMmw1cXQ1Nmg2TUU1MzhFbTE3Mm1aczVhZG42RE1QcHZWYjg0X0pGTU5FZHJYVE9wc1NMQWNjdm5KNWp3VzFhQ20zb1B4Z3F2ampJcHNyQmkxVmhxUnRVSzlESGd1ME5hajBjV3dVeDhrUWJONFViRExtaEtsZVdHMzhoc08xSHhnV3FmVnpnVmZFeXo2WnZuVk83dDEyMTNDNERQVmhz?oc=5",
       "date": "2026-11-05T19:37:48.000Z",
+      "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "Mercado de válvulas solenoides para refrigeração até 2035: cadeia de frio e transição para baixo GWP impulsionam o crescimento - Notícias e Estatísticas",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOVc1eHlMbTZsR1VzX051TTdBaXBsTXVTZi1Wc2NQaGV4MGNFczA3VTZlbXRGMXZxY0FoMWx0MGtyVW5JdzBrb2ZrWVItcGRTN09MU21DZURKOE5jV3NWMVFJNVhkVFc2Nmh0QXJVZk1jZHpzVHZrYXFyU3ZTZWY1cW1PUHY1UXJwMkZrNUo0SThxeEJ6WkxiQmZvVjJjTlpQbXZEcDN5M3lZZkowclN2RVhJVkd6amFkNGE1TzFOM2paNUh3dG93Yk9LdE9USGU3LWJqcnF1Z1BFZmpIdUdWVDVzUjlHTGtnbzFN?oc=5",
+      "date": "2026-11-05T19:06:04.000Z",
       "keyword": "refrigeração comercial"
     },
     {
       "title": "Empresário oferece câmara fria a comerciantes sem luz em Maringá",
       "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQU9OR1VqeDBJV2NuRTJhb1diTk0xd3JoNEpYOFBIVUNqWVprUXNzN3hZLUduUl9VdUgyOGQ5QzdSVUxkQ3Y2WlpTRnRaRXFxLXVOVFFGQ3gwLUxlaXlEMDRUOVJNTGlfYk9xU1F1LWppdm12SU9BVFFlMjVpdGJRUVEzYV9vX3h1N3BDMHY5WkZkdzNwZnFSZXhaOXNNdWJjbUQ0YXYwRUlrejJuaERsQndjS2c5WDZmX24tVmo3aUxoOEZfcUdRV1hXNWQ0XzFQYWtCdWZtNmlkbFg3ZDFsWlVHTdIB4wFBVV95cUxPQU9OR1VqeDBJV2NuRTJhb1diTk0xd3JoNEpYOFBIVUNqWVprUXNzN3hZLUduUl9VdUgyOGQ5QzdSVUxkQ3Y2WlpTRnRaRXFxLXVOVFFGQ3gwLUxlaXlEMDRUOVJNTGlfYk9xU1F1LWppdm12SU9BVFFlMjVpdGJRUVEzYV9vX3h1N3BDMHY5WkZkdzNwZnFSZXhaOXNNdWJjbUQ0YXYwRUlrejJuaERsQndjS2c5WDZmX24tVmo3aUxoOEZfcUdRV1hXNWQ0XzFQYWtCdWZtNmlkbFg3ZDFsWlVHTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTRFVXZuZjZ0RmVUX0k2QzR1NG50RXJDTW80UUdPMWd2V2huVTNobGgzQjdHaXBFMGhFMkZRS0xpXzFZa1hhdmFPRXZDeVJlVGo3a0QyTzZsM0l5R2RYVWdCS3ZUaUJBZ2RxUnlDQlRQSG9CNmVMQnZEY04wRWs5VkVhd1I0ejVFdTYzZlp5WTV2UFBIZXIxZVhsVHNlRFI0RmVJYlRTUlZmWnhsZWV3WXhiSmxmMVduNVBGNV9ON3FMdF8yNEw1blJRb0poalloM21jatIB4wFBVV95cUxPQU9OR1VqeDBJV2NuRTJhb1diTk0xd3JoNEpYOFBIVUNqWVprUXNzN3hZLUduUl9VdUgyOGQ5QzdSVUxkQ3Y2WlpTRnRaRXFxLXVOVFFGQ3gwLUxlaXlEMDRUOVJNTGlfYk9xU1F1LWppdm12SU9BVFFlMjVpdGJRUVEzYV9vX3h1N3BDMHY5WkZkdzNwZnFSZXhaOXNNdWJjbUQ0YXYwRUlrejJuaERsQndjS2c5WDZmX24tVmo3aUxoOEZfcUdRV1hXNWQ0XzFQYWtCdWZtNmlkbFg3ZDFsWlVHTQ?oc=5",
       "date": "2026-11-05T12:16:25.000Z",
       "keyword": "câmara fria"
     },
@@ -76,7 +90,7 @@
       "source": "Portal Salário",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GUnNuLXVBT3Fya1BxQlJtYldYemFxN2laS0NTOF9GMGtZQ3h3YURtN3ZQOXhjWHZtdmtXMGpBcE1jekhwem1wcjV2TTFxTUcwdWRHbWlqNnJwcjFmalNadEo0VUY4WldldF8tV0lOX25lajV3U0NrblpxenpRQU0?oc=5",
       "date": "2026-11-05T10:54:25.000Z",
-      "keyword": "câmara frigorífica"
+      "keyword": "câmara fria"
     },
     {
       "title": "Como os hackers conseguiram elevar a temperatura dos congeladores em toda a Europa para 50 graus Celsius?",
@@ -93,13 +107,6 @@
       "keyword": "cadeia do frio"
     },
     {
-      "title": "“Já passamos por isso”, diz empresário de Maringá que disponibiliza câmara fria para a comunidade",
-      "source": "Maringa.Com Notícias",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakVxWk4tNi1MZXNNMDlVT1RtQVpKWVVnTEhCQ1k2QkdCNFZGYnV1QUhyYnk0RWNUOTlGVmIzZUJfcTZKcDBVbFlpdVhlWjhjZlRFMTVBejNtT0tZdVJaTzhxSkNHaVRjQUJHSXNmcll3MmVNQVpEd2xER0ZPZTMwVnc3R0xlcm1kUmxHQ3kyY3l4NDhnTW85QmVNUWE4M0dpMzUzazRoN2VrR1ZBZDFxRjZ1MkZ2SEgyTFZfTnRYSVgteFBNb2h0Sw?oc=5",
-      "date": "2026-11-04T18:09:34.000Z",
-      "keyword": "câmara fria"
-    },
-    {
       "title": "Fiscalização do CRMV-RJ identifica irregularidades no canil municipal de Cabo Frio, e MPRJ ajuíza ação para exigir reforma",
       "source": "CRMV-RJ",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNmswaGY1WkxPNEFIb1N0UFZiTnhMZWxUT0tHNE8zZEpaeEZTUWU3Unh5NW5QVVI2clBVYUpTaFdQRlNkQmY3d2hEUllIaTFfaU16bWlpZjdja0FjUHdza2dzOEtUWXFoR3N5SkxnN09hRi15dnhPNEpGVGlaOTVfM0llYlBwVmhtTnFVY0NubkhrUXY2SV9KYkxOVGNxaUpuM1RxNW1iMm5KdTVrZGlNeUhrM1A2QWg2eDU1SVFwbGJBTERFNFAzZjU3MGVtZnBRQ2ZXSVRjYnQ1d282Z19fTS1B?oc=5",
@@ -107,17 +114,17 @@
       "keyword": "frio alimentar"
     },
     {
+      "title": "Cadeia de frio: como preparar o supermercado para o segundo semestre",
+      "source": "Sincovaga Notícias",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUltTnpKSmVBcWhFWGJld3pxVV9XSWZRVnRpRkVwVHMzYjdVWWRDdFlOdlloX1hFM192RlluYzU0RWxub0w5R0dqMng1TjdFSlBIMDR1aXdrNVdoTXF3Yk5uQkV3eUctWnZ2cjlydjB5YnVNZDNSWlN3bmotOGNkUVo0SDVxRTZJdHFyMTJNUzl0SlY5OG9EaUExdktXTkFGWGgxbi16SFM?oc=5",
+      "date": "2026-11-04T16:45:00.000Z",
+      "keyword": "câmara frigorífica"
+    },
+    {
       "title": "Frio pode não ter freado expansão da agricultura na Europa pré-histórica",
       "source": "Aventuras na História",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVTFDX212c0ZoZXozUEJObHFZNy03N1Znc2R6dHV3RWhsSzdIdEd2RmdrR1pjVkMxZndUbGtuWDdlMG9OdW5IbmQwWEh1NktBbkFld2Q4WlhKQ0QxbnVHVVh0VE9UUi1WQTF0Zl9YRDg2cmRZaVZvWmdObnpPN0pHNWFBeF9KN0QzTGpkdTFSTkpWdzE1b1FnVHFORkl1ZzAtY0FaSGZuQ2dMVUd0NUhVczI0ajcyYUNwbjUtV0lSVHVqbDgyZmZDSlhvTUp5NU9wRXc?oc=5",
       "date": "2026-11-04T13:37:17.000Z",
-      "keyword": "frio alimentar"
-    },
-    {
-      "title": "Homem invade casa de idosos em Cabo Frio e leva toda a comida do freezer",
-      "source": "G1",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMDNUU1dxTFZqMklZbUFHakcwR2lncWM5SktaMWswMXMxX3h1OFlHY253cEdCeXhpemQ3eDJLXzg5X01GV3MtYVVMVUZaazc4bWNONmJidDJNNTlVOGZ2akVaLVR6eW5vZ0NMME56T3lIR2YwWWtGUUxyOWxYMVhlVTlzOXIzX0lla1hLOEJrWi1Hbzl2azFqelEtUXhzTVVHbW80UVJVTnhIMVgtZkJhRmtFUDQzZTBlTEVMbnYyV0MtZ0x2ajFZRG9vUlYxQU96aG1JbdIB4wFBVV95cUxNMkpNMm1CTDJQbzB2TXVSOW03dEFZZVhHYktfR1djX3RJb1JoSzN2dXVVc3VBdDQ1SjB5ZWNKdWIyalA2V3Nvd1dCeHgwQWp5N01CLTZxS2VnUjJzekZFS2FKZ3l0UHh1YzdMWTlFLXpGeG1CRFd5T210Mlh3b3FoaHRvenBxcnFLUnNuZlJBbzZfUklqcnE3d09TZVVZTFJ4cXZEbGhnZDlDbDJoalJsbVc3ZGkzb1ViZWFkLXc4b2tKZm1POHNRX0kxLW5EaHFCMnczY0ZibTREd2NyLTFyMUhmQQ?oc=5",
-      "date": "2026-11-04T11:54:56.000Z",
       "keyword": "frio alimentar"
     },
     {
@@ -149,13 +156,6 @@
       "keyword": "frio alimentar"
     },
     {
-      "title": "Ford Transit City: tudo sobre a van elétrica para logística urbana",
-      "source": "Ford From the Road",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQU52a2VkdGlyaWlVUnlwUExXbTBUZDNEdjF6N3Mza2hNZGl1ODVfcHJFenVQLVpOR0xlaG5uUnRGc3lwZm1yVjNWbE1fcEFQRFhqSDRYbmFWaW10NXlqNzk1cHJxT2FQLXo0d01IN1F4Z3ZFRWdnUFlHdHd3QUVoandsRWlkanZZTHU2VTlQdGNSRkg1dmdSQk5EcmtuN242dHdHQmFXMmNfR0g2RmQ3NURoSENHdVVp?oc=5",
-      "date": "2026-11-04T00:33:54.000Z",
-      "keyword": "câmara fria"
-    },
-    {
       "title": "Mestres do Frio: conheça o reality de refrigeração com instrutores do SENAI no júri",
       "source": "Agência de Notícias da Indústria",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3NKd3FYSm5Mb2Vzd29FREE4Y0puRWw1d05wb3dTeGhGZWs0dUZQMGg4Z3BDMkpGaFNIZW5ZekxBWC1CSjg5MWpjS0tKZTlpdWVIV3R0Ymo4SXdDNmgyWHkwVmo2dzQtTVBxSUtFVVpueTJOMkVNSVFvbWxHemVSSnFhaGpuVVBSRTRwUEpPVEdEOS1nT1BBeXNobWllSzZQRVlXS0FROWkzN1FsSVgxci1HY0Y5cXNzLWdyelNZSG9OaXZvckJCSGl3?oc=5",
@@ -179,7 +179,7 @@
     {
       "title": "Supermercado da Dinamarca reduz o consumo de energia em 60% e alcança 100% de autossuficiência térmica",
       "source": "SA+ Ecossistema de Varejo",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOenlsMWtqZkNpTHZuMDEzOFJqVVR4NTJKRUNlNTJScWZ4S2Z6MkZ1OHNkcEIxTDcxUXl0a1NiQV81aUs2NUtKRElGUl8tbmJ1WW4wcUVuSUR1QjZLWTBsMFN5SEIwUHVCaEFhLXd2THFMaWR6dkl0alZRZ1Mxb0dSeTVXTUNVbUZEbzduR0xqNGUwSHdrM1N5M3A4dm43ZEkzN011XzRtZ0pmRjZKZ0NnSDlLMU02RjBSTWlhVUk3ajRaQWU4Q0djNFBQTWxIeGtZekNz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY1JpMDctV3hLOXZzYkhBdmp4Z3ktWHFla2stTlc1WWdqSFNoSmlBYlNIaktWOFV4RTFDU3h3bWpqQkNFeUlRX1VodHhUU2FQaUQ5azMtbUk3Q2FDak1JWi1oLXFwbWJERFpZUUpvcFRnQjBjLXJLR0RnTUFBT0M2YkU5ek0waDR1Vms2S19zX0pKazNGM2s2UHpwZGFraldCcy16MVVtR09oSFY5SVlhM1RKTmdmMVNtdXBBaHRxT0h1VlpFUWdDOWE3enBrdmVCb2J2MXNva0V5UQ?oc=5",
       "date": "2026-11-03T13:29:00.000Z",
       "keyword": "refrigeração comercial"
     },
@@ -212,11 +212,11 @@
       "keyword": "refrigeração comercial"
     },
     {
-      "title": "Cadeia de frio: como preparar o supermercado para o segundo semestre",
-      "source": "SuperVarejo",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnB3TVN2cjlWVkN0dFpscnkzS1lOTGxNWk9YS1VicFJkYjZEeVhHS191RkVSTkhPb3N0bkdla0N2dWVXb3ZpV1pnMlBwYjZ2OVdZN2c1bzNlTTFSSl9uTEYyT25kS2hYaTVkR0Q2Q0d3QXdIODBON05NWEJMcTdWMmxyZFJfY2dyRlBlVlROcS1ZQ0Q5WUR6MkxtVmNSakE2NlQwb2JLVkM?oc=5",
-      "date": "2026-11-02T13:10:35.000Z",
-      "keyword": "câmara frigorífica"
+      "title": "Temporada das baleias-jubarte termina com menos filhotes",
+      "source": "Agência Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFlscDVzb3Q4RnhCZ2FVb19LNGtvTDdXQnRVcjBEUTVWVjNaTVdHMTdhT2NPU3hTZWR2QmdfQm5KU05nWGlJdDAxZURBekIzam5RcnVucmtOWUJkX0MyR0VxZUJHUkZ6SlZsU2NGMjI1czJEWjFsVzRRZzlKa3NuYUxwVXIweTU0bFRSYlM4Ymx6NUFJck1sWVBUMGpfaEdmeUYtY3k1OHZ3WE1BWFBvMzJzRkMzcXQxR0xr?oc=5",
+      "date": "2026-11-02T11:19:00.000Z",
+      "keyword": "frio alimentar"
     },
     {
       "title": "Açougue recebe carne a vácuo e encontra várias embalagens estufadas poucas horas depois; distribuidora se recusa a recolher porque nota fiscal já foi assinada",
@@ -226,13 +226,6 @@
       "keyword": "açougue câmara fria"
     },
     {
-      "title": "Mercado de equipamentos para cadeia de frio deve crescer até 2035, impulsionado por terapias biológicas e normas de segurança alimentar - Notícias e Estatísticas",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObzl6dXEtNjZjbEc3M1MwVXJjaXZVbm1nZGJoWVVBcml2dnpxdThDb05JMGJpU3c5a1VGU0lnRGtsR05lMFhKNE5LWS1WbnRNY3B0dXJ2UlU5WFlSMWE3MjA3YXhrLVZFVUVKeTBCQWN3Tl9CaHBvQVVuS3JhT2FHT1lIR09pYTFJYmJmM0huWW5RN0N4V2dEX21fUDNWN216dkRvY1JQQU5LUkktSTdpalpZc0wtRUtidENyS1FCdDJOanJubk5HbERrUQ?oc=5",
-      "date": "2026-11-01T21:31:04.000Z",
-      "keyword": "frio alimentar"
-    },
-    {
       "title": "Epta",
       "source": "NaturalRefrigerants.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OQTZ2WmwwWjduQUFyNDJSNmFVcXR3ekdVQVBVUjdjaTZnZGMzZ2ViaS1WeTh4NVBOQ0hHTjNhVHNDY2ZFOGNyZ19fRUNQMDNGaHpuMjh0akw1ZlJx?oc=5",
@@ -240,38 +233,24 @@
       "keyword": "refrigeração comercial"
     },
     {
-      "title": "Pizza e cerveja: como harmonizar sabores e estilos",
+      "title": "Pizza e cerveja: como combinar sabores e estilos",
       "source": "Exame",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGR6MVNZODIyWkNHZzBGMTYteFItOGRxUThFOHVPbkhPdnhaQmhNVm9ER1JwSFZVWFV2X21wLXdBTzJYUy1jVHg4bU0wTnhxaUpzUk1idjAySmJmSmlzeEhCdktHQ0JyU2Z4d1I0dHpPSUxOeE02MmxuOTBjSG9uTA?oc=5",
-      "date": "2026-10-31T15:05:22.000Z",
-      "keyword": "câmara fria"
-    },
-    {
-      "title": "Mercado Municipal de Coruche continua a motivar queixas e críticas",
-      "source": "O Mirante",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVNFS1p1YW1ZWXNRbzBjM1hvaHBWdUlpOHhjR2ZoRzM3NjBuZG9KVHZqY2xQNDRTbzFEamdDOFlWVEJCdC1SazlqbG1UcnhNWlhPVHp1M0ZZakU3WGx1R2t2SlY1WHJKYjlUNTU2WlpBMWIwbmM0VTFVcWhfMXZLZTRIWExVQ1dEX1o3YXQ0QnFZeEFxVjlzUmtLdnVQY0ZCWmNQa0lSZjZiYXV2TWRnemlwa3g2d1U?oc=5",
       "date": "2026-10-31T07:00:00.000Z",
-      "keyword": "câmara frigorífica"
-    },
-    {
-      "title": "Teatro Municipal de Boa Vista passa por manutenção no sistema de refrigeração",
-      "source": "Folha BV",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3BCeGhGY2ZjUGxISE1LQ2VIaGE1SV93aFFncWQzTFcwSUpGd1d5S0NPNFBRdkgxUW9vU0V1alE3WlUzTWNpLTRJNkZoZzhQU04zMU1kVkctM1I1WkdXZGhSdnN6NGU3OGpBcVhhcTFLWDVTY1ZjR2hBZWxLLUxVaFBKVHI0Ukk3cHVvYXh5ejUwbDEwakM3RjV0S29ZTXB2UFB2dHljZlh5LUJXVHFiUk05ZnRmQQ?oc=5",
-      "date": "2026-10-29T17:19:39.000Z",
-      "keyword": "manutenção de refrigeração"
-    },
-    {
-      "title": "Rede de Frio Central chega aos 25 anos como referência técnica para vacinação no DF",
-      "source": "Jornal de Brasília",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDNGRkR4NXNyMDlsNmo2Y2QyX2VpRG82aUM4alltVUJ3VklBMHhHNDFoWmo0b3NOc3RsLVhhU3hGLS10UkUySDdrWGROTkNWQkhzbU9wNS1uSXhPQWlDNUV3N2c2U2RDQ0ZLcDB1WE5IN1p5VDk0cy0tbk1XRGhTT0NKbVk0WGVSbnNRLU1la05Wcnd4al9RRHBfLTV5cWpPRFVMd2hvMVhxYUwweVJELW50ZVVPYzNBRlNEUnQ0SzZpZzQ?oc=5",
-      "date": "2026-10-29T16:49:57.000Z",
-      "keyword": "câmara frigorífica"
+      "keyword": "câmara fria"
     },
     {
       "title": "Rede de Frio do DF faz 25 anos e coordena 51 vacinas e medicamentos",
       "source": "soubrasilia.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWE51aXZUZHNndmtsd0t4Zmh1NU8wbEJLZ0tYdzVqZnZsOVltOS1xeEVyWXRvamVKLTJFWHRUTTcxc3NZbEQzZDducFA4U3AyUkJaQ1VEZ2lndnhVRkU3aHplNy0zbVpBbV8zWERaR1BESG03MnkyWks2ZGtSVDU1S05nR2doMmJKQ3g4?oc=5",
       "date": "2026-10-29T15:34:40.000Z",
+      "keyword": "câmara frigorífica"
+    },
+    {
+      "title": "25 anos de Rede de Frio: central consolida-se como referência técnica para vacinação no DF",
+      "source": "Secretaria de Saúde do Distrito Federal",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFlzeDFmUWk1SEpJY3pFc2JFT0pZY1Q4bkVWS01ENnR2aWlDVnJxZ2QwLXV1aE5uUU5FdXZKZ3F6RUVCdnVhSjBkWXhXbndnRFhCa09PS3NiRFdyaDV3R0V6blFfUi0tRFpMcFlGUHNDRFd3VldJNWdfa2U1Tll1UlQ4aWk2TTc5WlhzaEh6Q1ZHT2luWWR3ZWZSbTVfbDN6c0NCZWs2ZENhUVN6REw1d3lITTZVWEwwNmZn?oc=5",
+      "date": "2026-10-29T13:04:00.000Z",
       "keyword": "câmara frigorífica"
     },
     {
@@ -282,11 +261,32 @@
       "keyword": "manutenção de refrigeração"
     },
     {
+      "title": "Teatro Municipal de Boa Vista passa por manutenção no sistema de refrigeração",
+      "source": "Folha BV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3BCeGhGY2ZjUGxISE1LQ2VIaGE1SV93aFFncWQzTFcwSUpGd1d5S0NPNFBRdkgxUW9vU0V1alE3WlUzTWNpLTRJNkZoZzhQU04zMU1kVkctM1I1WkdXZGhSdnN6NGU3OGpBcVhhcTFLWDVTY1ZjR2hBZWxLLUxVaFBKVHI0Ukk3cHVvYXh5ejUwbDEwakM3RjV0S29ZTXB2UFB2dHljZlh5LUJXVHFiUk05ZnRmQQ?oc=5",
+      "date": "2026-10-29T07:00:00.000Z",
+      "keyword": "manutenção de refrigeração"
+    },
+    {
       "title": "Bioparque Pantanal terá manutenção mensal dos sistemas de climatização",
       "source": "Capital News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQmxZUWxVbDVYbDJIUzVjZHF5YUpLTjQyVnZHb0tKQmRRY3YxaG5ZR3Bxc2txZUJLUFdNcE9uc3lMT2o2V2VLUmNnbWJkM3pOdVNIOVVtREhJZFBGOTdGRVlCU0NYdEdETjBCWUZ5dWMzX09BN01MTmRyRm5STWtKUEEya2xwWUxHZ0Zwd2pxa3R5R3VRd2REY1JLMFRkUEpZWmpsMG9kVDVGd1Vqb3p6eldaQ2tIazBrVHRpbURFa3o2X3lRQzFEN3lVbFIzRVZj?oc=5",
       "date": "2026-10-29T06:34:55.000Z",
       "keyword": "manutenção de refrigeração"
+    },
+    {
+      "title": "Antes do verão, Climaxx alerta para a importância da manutenção preventiva do ar-condicionado",
+      "source": "Hojemais.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOXk3b05RVVQ2aWZ2ZVFncWRhb25YTVM5bHI3YWNNaXZ6TnlHUzBYOExtT2Vqb1pwNDJuUEVsSEI2Q2J5d3RyYXhycFlXTXdlQ2VLMzVXaWgteXoyOGdWV21Dd3lGUmxXNHplN0s3VU11cnpzak1QUVlXc0Fhd3FzSGJ1Z3lhWTcxUjVrMUMxU0JMWnhibm0yS3kwMWRsbnRIR00tRVZBei1abFZnbGswT3liRDRUQmIxaDJXZ0xEaWFsSUZjampOMk5ncEFvbnZuYmZ5S2ROYzVNUlN5NFIzdA?oc=5",
+      "date": "2026-10-28T14:35:39.000Z",
+      "keyword": "manutenção de refrigeração"
+    },
+    {
+      "title": "Italianos levam maçãs para mina a 300 metros de profundidade, usa teleférico de 1,3 km para transportar as caixas e afirma economizar 30% de energia no armazenamento",
+      "source": "Canal Rural",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPUzRzZEVreDFnMm1kbG1PajE2V21yUVdWbkhpT2M3TkphZjdyT2t2NWNfS0tTbmpxTlhkNzJDdjltTjlQV0Y1WmpyX2I3TDdQdmdCZlp3YUZ2OGZhODFzQ1FSMjZKZllfenRyQ0s2M0FPOHhPdnJrSHoxUkVzTFdFSWxQMFE5eHhFalNSVHRBSUhVWW9TQlVXOFZPVHoyY2dSc0ZhVlE4SUFkNXVMMWZBM29iZlBTcVJieTNNakZfZzhnRm9zMGZRYkR4WW1MTnI5UlFrbmNHeWtFbWNhbkRDd2VCOHpQdGZybTFkaF9LX2g0SjE2MFhwS2NIdUhDNjNtaEF1dk9SSE5GR2JpU3JHejA4V2ZfbXhZR1ZJNEJ2azZiTHFjejlOR082alE4NVdnc2xKQUF3ankxQ3UyTkE?oc=5",
+      "date": "2026-10-27T22:57:00.000Z",
+      "keyword": "câmara frigorífica"
     },
     {
       "title": "Artigo – El Niño e a SST: Clima extremo e amônia",
