@@ -1,40 +1,75 @@
 {
-  "updatedAt": "2026-11-25T18:31:28.508Z",
+  "updatedAt": "2026-11-26T18:14:09.394Z",
   "items": [
+    {
+      "title": "Vazamento de amônia em frigorífico da JBS dá multa de R$ 5 milhões, por danos aos trabalhadores",
+      "source": "Expressão Rondônia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2ZVWFlzVzZ0UmpGMTRpLW54ZGwtNExBSVVORXhhUjV5MEw2V2VIUmNCY3FDTGFyTWJOcHY4dE9oZU1vUV9faVhiQWthWDFoRjM3SUxBbDdoT0RYVFpEN24xdFB1TnlxWkJHTmlKaFQxRmRqM3doTkE3cy1ZZE04ck1PM090ZkZudUZuckYtMGV3UGRCcENQYzNTRncxMFljT3NaalFWYWctT003OTRENzdwRG1LaGhLZ3lNQkdWTHlmNXhwT0E?oc=5",
+      "date": "2026-11-26T15:00:35.000Z",
+      "keyword": "câmara frigorífica"
+    },
+    {
+      "title": "Justiça do Trabalho condena JBS a pagar R$ 5 milhões após vazamento de amônia em frigorífico em RO",
+      "source": "Portal Guajará",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGJUV3p2aHlDS0VmVFhsQVV6SVp1ZVpzbXhXNmMwTWtjeUpuQklWbWJhRDNvRTB6MGM5U3U4S3drVVdWaVZnNy1SV0NsMnBiazVVT0xka2QyNFlNVHdLNUtZMlNGN0J5SEo1ZnRJLV9QVkNEclVWRU00WUdHR2ZsVG1XU2hJcWprNXNCOWdDTFVCMmNMZEVwSWFuUHE4Y0dqdFRXNTJUbHZJRDUtcEhrM3dUanppMUllajdIdC1PQ1RhXzZxWVR4NFl1cDdaV3hnRDEw?oc=5",
+      "date": "2026-11-26T14:21:35.000Z",
+      "keyword": "câmara frigorífica"
+    },
+    {
+      "title": "Data centers da Amazon e uso de água: fatos e perguntas frequentes",
+      "source": "About Amazon Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzAwd3hJajR0NnRUZnFmLV9oSVYxb2JCazFKdVZBM0JMMWJqVVV5NDhwVUE1OHNocjlqdGxMa3BrQ0VhVnBMNFZOUHNWemJpdHdyaUF1ODJVaUZTZk83VUliR3FFNVlsMDlXVXJhaFdJMy1rX1dlczQ1Qm1ra3JHTzJvMmxXZFRyZEZwS1JEYkxiSzRYUGw2Q1dnREJMdU8wR3YxQ09iUTBxYTJwWHc?oc=5",
+      "date": "2026-11-26T13:54:43.000Z",
+      "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "Mercado global de sistemas de detecção por sensor de fluxo de ar: Tamanho, Tendências e Previsão até 2035",
+      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3ZaYUlnM3JKRkZ0VE5MR3JTbDBUNGxCMS1icWtGeU5BVUI2cFMtLWlKZVJweVpvSGZ4TjlYdkhVWG02M0pqTEpMNjdwNXluYm11YWR3eVM0aWw1ZVdIMWdVcXladFM3UXdCMWVoa3A0SzNjdHVudkdFNXBFY1JSMGdDRVU0MXN3TmdETllyX3EtR1ZvUTNBRkZ3TmE2QmJoWVhxRC1zQ1RoZ2FTNDA0aXk5NjhPMGU5ZUVLNUpsWmN2Y19nNHJQbnZtaWs2cUlkSmR5b04zem41OUxia2VPWnVxRQ?oc=5",
+      "date": "2026-11-26T13:51:04.000Z",
+      "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "Tecumseh vai inaugurar fábrica de compressores em Hangzhou",
+      "source": "Revista do Frio",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmJtQVkwNTdjSVRVRnpmQTdqTmtsdzZRS28xM2FrY1JOdHpTSTRkamRpTENoaUQ4WkdZRUVRTGZVTUx4ai1LWUZPWl9GVm9tU3lDbWM0dnB0NXZMaWFRWVRmTTJJaEU4SmxzNHl4UkhFcXRtS1BMRnl4eGdTT0F5STJLVEZYSGtiZWRuZFhCLVl5Zw?oc=5",
+      "date": "2026-11-26T13:46:54.000Z",
+      "keyword": "refrigeração comercial"
+    },
+    {
+      "title": "Alimentos e fármacos geram mercado para setor de máquinas",
+      "source": "REDE BRASIL DE TELEVISÃO",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2dLRjh3SWlFZUpLajdZQll2dDc5a0hacWlYVmhqdTQ3WFJWckg1aW0zV3g4RkJ0S3hhamhoTkxlbUkwU3l5TS1RRVNyWVc5TjczVGNJR2EzQVdQZmQ5TEJmLUJZSGttS1VUdFdLb0sxWnpyOE5lTHlUY3RSbTdHSmVWYUxJU0MzSXFQTkl1Yl9UbDBuY0tGSWFqOA?oc=5",
+      "date": "2026-11-26T12:35:00.000Z",
+      "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "O futuro das indústrias alimentícia e farmacêutica também passa pela indústria nacional de máquinas",
+      "source": "Startupi",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQXzRUckFVZUt2NEdvZnlHMmlsUG9GczQ2dW9UbVFBb1VzRkk4cmVZMlB5OGltdDBtTzU1TTl4bFFtOC13TzlIYnJzN2dZWThQTlR6OGFSVVdCN2JqZ0VZYm50S1lZdVNUTGpYLVlNRUxGdUZ2dWR2SHFnUUYtdTdXU1NkZ1NIenJMOEIxMnpvSUluRHFQdmhhQkhiZF9ZdjRCYkEtNF9oZkpuT3VSRXRsX2F0ZUZacHdCSHlpSTZob1J6Zw?oc=5",
+      "date": "2026-11-26T08:00:00.000Z",
+      "keyword": "refrigeração industrial"
+    },
+    {
+      "title": "Covid volta a crescer no Brasil, mas internações seguem baixas e o tratamento avançou",
+      "source": "O Cafezinho",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMlV4TXh6dFR5LWxybUxCd19fV1B0bUd3d0FnOGVSTUU0UzdiNkgtNk1kUjMyOTd2YThVNlFReVdxd01YOWdCLTRkWGFVc0JRQ0w3TDh3ZFRrbVlUUDZFa2hVX1FTUi1BMXJqcDM3bXhSYUJKWjRHWVltOWlWcE92dm93U0VsLURQem1QZWRlNFdJSWFETWY0eDEtenBMcXNQYkNDTEVZcFJDR2t3dWZDWFlTSTdhekxyUHFudndPX1_SAcYBQVVfeXFMTVlwUFdLTnRKcjNhZXN6dzF3QlhfOU14UXcxMGVRVjNocTFtRDdnNVFJd2ZtQk9UbUFBVUhpYmJ3VDZYRUhKOGs5THRLUzBQRDhLb0hFeTJDXzNvRExHNGltTXJITUlRcXZKRjZ3dDBCZHBMOWQ1Nm9wMzhqZFJHY05UQ1hqcE13VFlnQlNZbVdmazFwVExmZ21nWHc1X01mc0k1UEdRckFiY1llYVBxbk4yNmRzbDhhRWhQbDExMHVXSmxpckRn?oc=5",
+      "date": "2026-11-26T03:15:00.000Z",
+      "keyword": "câmara fria"
+    },
+    {
+      "title": "Reúso de água no frigorífico corta consumo e reduz gasto de energia na refrigeração",
+      "source": "aviNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oMU5qMTN0cXJEVVlVSE16bjNFdE9TQzUySURHbDM1czVMVGVCdndobUFSeWs1elNJLVBWcjdLckxMLXVDSm1jMkJQTktUdzlsUEtLTUVBWWVIQ2k1Z3otRjFJVGJfS2ZTaVJyb0M1Y0d0a1hyUjcw?oc=5",
+      "date": "2026-11-25T16:57:43.000Z",
+      "keyword": "refrigeração comercial"
+    },
     {
       "title": "Canetas emagrecedoras ampliam demanda por logística de cadeia fria",
       "source": "Giro News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTFCeVlLN3Nuc0FiVVMtdVExaXdrSTVTLXNuOUM0OVpsNmxJR3RLM0lTdm1pS3FodjJLU1VwdVJhcEJXbjdUQ0pSelJ3LUFQZlJxQ3d6Skgtd2toRjhiZ21zZFVDUjRZNk1NU2ZXODVNOFJSY2JleXFoMmNXTno5b2hxdTNOc3VqOU5ESkhUTmxxN1pSWGJwOF9SV2RnSlh0X1dRNG9EMzE?oc=5",
-      "date": "2026-11-25T15:00:00.000Z",
+      "date": "2026-11-25T15:02:57.000Z",
       "keyword": "cadeia do frio"
-    },
-    {
-      "title": "Mebrafe apresenta tecnologias de congelamento e resfriamento",
-      "source": "Agrimidia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVluZTVpZEdmQjFGNzZVdU9jdk8xWllKSFNyams0aEtPS1FGWUVodkRkZV9WVkNVcktSYTV0TTA0VFhnQ25hTldjakFWSEZwXzgwOUpuNncxTFMwWWNOU2FZZ3lQRnlYc0NYZ2pFVms1OW1uWnpWSXVfeFdfbkZCRkJOTW42bzNmZmxnN2s5bHBBRTdnN3Y1YkhZWkdka3pWNUt3ZjN6bFJBeWxuTGZVUWl6emVHM25ZMjU4?oc=5",
-      "date": "2026-11-25T14:26:51.000Z",
-      "keyword": "refrigeração industrial"
-    },
-    {
-      "title": "Funcionário sofre duas fraturas em porta de empresa, é demitido após afastamento e perde ação na Justiça",
-      "source": "Jornal Correio",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcktPb0pXaTRRTHY4ZTN6WnhYSWVEZGF4ekREakRnc2tENkRLOENRNGhTUXc0RmJDT0xXZWZwSldGakE1UkVPdmM4azZSc084VnRaTkZDYUVfTWtfWmRUYVFWTDZWb0d2c2p6VXlGUXRRaVFHQ0tFaUk2MzhiVG90Qi1nTkZOU2tFMjR0d0dpTGVWdHByY0FPdXBtQ0NYbG1MR0J1ZVZKWjdkMkt2ZTBOeEFuQ1A5a3Y0Rzh1ZUJERWhieFd1Vk1FLVI4TkdwMFN0dFpqMW9id2EtaS1KbUs3OGx5MA?oc=5",
-      "date": "2026-11-25T12:13:31.000Z",
-      "keyword": "câmara fria"
-    },
-    {
-      "title": "SÃO LUÍS – Hospital da Ilha tem funcionamento integral liberado após solução de problemas na refrigeração",
-      "source": "São Gonçalo Agora",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMjFzRG4yS0o5YWRNcUgzNGRGbHk1MnBiVkRhcVhtWHE3SFFaYlVrU0hwRzZJNlYtdm1NeGI0NUhjMmpsVDZIbDZRU0RoT3dHMjFSS2dZVUpyS01PLTV6NWNwbmZNTHZ0a29kcmtXU1V6NGZXVWMzQzNDekxFM2I3NFlMRmFQOTdFYkRzbVZWQ3pMV1p0aTlpcVkwcWMtY3hBV3I4ZWlNd2hwMmNsUlF6OVZnUUxDRXVZUXFwT0dOOFhQTW40MFoxdTJRY1I0NzEyRGxEaXBFMkY1TzNDTHVpMThJSGJ4bHRfMXdNc3A5c0U?oc=5",
-      "date": "2026-11-25T00:10:00.000Z",
-      "keyword": "manutenção de refrigeração"
-    },
-    {
-      "title": "Agências de segurança dos EUA sofrem vazamento de informações não sigilosas, diz NYT",
-      "source": "Valor Econômico",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmNIeWM5TGZieFMwcS03dDJRS3QzM1NWcGY0SFVESmViTXFhenJ2eVE1YlZfRl9pdFdFdEhOZzN2cEtWY2F2X2hnNmhXamlvamJtYXJjX0JFLXFPVC1CdDc0UXpPcnNjMWhVNFNRWFBObFcwQS1kbVVCakpTR2g0dm1ybFZZbVNDU191S2dNczVwQVI1Yy1tY3JMWl9OYnphNG44QjNNajR3MWhwc040M2M3YUJYS2hfR1FWVFpvb3VwZ3ZRUTVQR3MxSVdmd9IB3AFBVV95cUxQaU5EWEpGRk5WRnp3UDZQOE1MU1NWYmd1MFNnS0k2dnU5OEZ6cm1IdUR5ajR0RW4wOTlzVkM3YjMwemxhR00xZ2VKMVFTa2ZNNTU4cmsweVdlelZVMjhzb05mVWI4c2tYa0NxbGRicjNOUnF5YXVYZml5MXF2cEtjMDNudzdXWFA5dzQ0bEl2c1Jvb19OLTNSX2F5WGQ1NzZyVXZCcW94SGs2ZFpUbmlFOFUxTG5VdXp2dUtqMHJOWjFsWl9xZG9Jc2pOLTlKbVJucjltdVNPNEFqV3ZM?oc=5",
-      "date": "2026-11-24T21:12:13.000Z",
-      "keyword": "refrigeração industrial"
     },
     {
       "title": "Mantida justa causa de vendedor que descumpriu regras de segurança do trabalho na empresa",
@@ -44,11 +79,25 @@
       "keyword": "câmara fria"
     },
     {
+      "title": "SÃO LUÍS – Hospital da Ilha tem funcionamento integral liberado após solução de problemas na refrigeração",
+      "source": "Ministério Público do Estado do Maranhão",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3NTaDJfUFJJa21rcGJNd3V6cWh0dGpMOWRFLTktNG9VaTVyQTg0cXhuNlBSdTlraFNQeERyU2pjSEdEYlhldHlHRFNvZktKSkJkVFR6d3BEeEVRVUJrMWxCd2Q4MGNEQW0zR0xjaDV3akRRUXFudXR2a3lvTlM0N1l6WFU2LW8tRGtmQVkxOFhZMnl0dzQ5TDlxUVdNOU0xLXNTWHRlZGkxMXRsZXM5ZXFieV95d2I5cm9CVTBuQXBfRXV4c3c?oc=5",
+      "date": "2026-11-24T16:57:00.000Z",
+      "keyword": "manutenção de refrigeração"
+    },
+    {
       "title": "Calor abre oportunidades para profissionais de refrigeração; saiba",
       "source": "Rdnews",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZm5tTS1xM1ZpMkhaS0tiRi1lZTVva3UwNkR4SDZuTHZsa0JpQU1pVXkzcWFQcDVnN0pXcGZ5dnpnaVZLbGxzZ0V0MXRTVXoyeEc5TFpXMFp0V1ItdkYta0lfNDRhYm9hSHA2dFZfczVoclQ3WExmZjVWb1RZRmFHZW5sU2Q3X3lqT1VDaTRQb2RYR19LWmgyV2VvejlGLXlfNTdDVThFWlJPdw?oc=5",
       "date": "2026-11-24T15:56:00.000Z",
       "keyword": "manutenção de refrigeração"
+    },
+    {
+      "title": "Ladrões arrombam associação, furtam fiação e deixam prejuízo de R$ 70 mil",
+      "source": "Campo Grande News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUHZoODRNX09wNzZvQlF0TXVsbnB4emR5TUd3Y3Bjd05ueDhNUlRwUkJoMWFILTRiZzEtSjU2WjVaaThiWEdQbFh2aElIUHRxdl8tRHA3WU5lSS1aaVRCMURYOU1WQ05MQjI2M3BGTHIzUV90OThYOUxfTUFzbGMwTU9iQ2ZrWWdnQmN5QzE4UklHLVVXQlEyOXlBSE1IOFg1ek84REVTYmwzWGhCbXMzUVpaaHNxRHNlS1ppbFlCUQ?oc=5",
+      "date": "2026-11-24T15:47:00.000Z",
+      "keyword": "câmara fria"
     },
     {
       "title": "Senai oferece cursos para profissão em alta por causa do calor com salários de até R$ 7 mil",
@@ -79,11 +128,11 @@
       "keyword": "câmara fria"
     },
     {
-      "title": "Segurança que media temperatura na porta de câmara fria e separava pilhas descartadas não tem direito a adicional de insalubridade",
-      "source": "TRT4",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYOThldW9MTnVlSkFQMU5qRzgyYWFCQmdwX2VUa1BxczV4c1pnbzFqQldhLXVYSVEzQ3JTT3ktR0ZsQzZ6dGp4Ujk3Q2w3UjVheHVDYzhtWmptLWVabGMtbjliZGpmM0N2enRMYnItYw?oc=5",
-      "date": "2026-11-23T19:15:00.000Z",
-      "keyword": "câmara fria"
+      "title": "ABB anuncia compra da Ziehl-Abegg por US$ 2,65 bilhões",
+      "source": "Revista do Frio",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DR25saVRmQnpSbUw2R1NjNmNxWUxxaGJENXItOEhmNURFX0JnQk1uU0VNOG1BSGozbTNaS1pQYkdVZk9qRDFGWWZRQW9zS2FXRld4cFFvRDF2T28zaHY0S01HaXpOdFF3d3JiSi1YUjg5cjdBSGc3Q0hHMA?oc=5",
+      "date": "2026-11-23T17:52:53.000Z",
+      "keyword": "refrigeração industrial"
     },
     {
       "title": "Governo de Sergipe",
@@ -97,7 +146,7 @@
       "source": "Gazeta da Semana",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeU1pZGdnZTBBS1Z0UUo4dE5NcUtGd0p6LTlORDZhSWdvRTVqVWhoeXA0ckV1QWRaRlBxM0ZxY0ZZbVVtSEZxVUFvU04zN21HMFhQaTVuTjAzVk5tZEZ5cVhsVi1kbUNrOU9sd0xaRXdxczRJUlJrMm11U09VTmdmN1VzYUJDLUxQbXVyWDZ1dHZWcE5NbVVVWE5hWldVT3lWc0oyVV9NM0wxR2NBSEpfTS15R1hYNFpNdHlmUl83MTRBNHowajJOZzh3Z0cxQQ?oc=5",
       "date": "2026-11-23T12:26:24.000Z",
-      "keyword": "câmara fria"
+      "keyword": "frio alimentar"
     },
     {
       "title": "SBIm lança nova edição do curso on-line gratuito Sala de Vacinação",
@@ -105,20 +154,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkRPVFhacldMWmhRSXFyMHNVMk9mNnNxc0tQbVpoaXhVSUZRaGhaUjNKbkJodE0wWXM5bmpHenNDZU1XZ2t3cTh1Z19od3BUNVVqelA2dmNwdUVOMXZsX2tQTXRIX19DaDNabEdnWWNRNnpLUDFyRWpCU0tYbzZvcTI1NlFvMlBQZlJXQk10blZ3Mlc3aU1pMkdaVQ?oc=5",
       "date": "2026-11-23T08:00:00.000Z",
       "keyword": "cadeia do frio"
-    },
-    {
-      "title": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QOGF1MEhnY3duVkZQS1doZlVTVmFBVUlKZjJpRjZQSEt1SzY2YkhKblpmaWhaalduYngyMzZQZm11QTM1UUhmazZBWEc4bV8zQl9xMGlXbk9lNW9CRFRWbEFWONIBaEFVX3lxTE85ZkVGRmpORGdGWUpMS1ZXY3liVjdEaGNIeGJ4WllWNnVFcHRFaTRmbDZyb2QxS0RFZ3NpcHZxSjMtWU9pNFZ2d1Q5N0QxZHliZ3Z5TFRlaTh0T2ZJdnFtTDhqQ2RDeGpG?oc=5",
-      "date": "2026-11-22T19:43:28.000Z",
-      "keyword": "refrigeração industrial"
-    },
-    {
-      "title": "Insolvência complica reparação das portas do mercado de Coruche",
-      "source": "O Mirante",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPenRNU2dpbzBDcVFJVUdQYWNTQmcxMXFreFBmSTdqUVF2VWtSREVpTnN3WW9MT0tveW5RMkg5UEMyMUxqNUVQRXY3ZTIwLUZad0R3bkNYSEItWXl0dTNHSlowVWhDdkpnaVhvdEo1cURUMW5JY2QwX2dfcXZBVzFKWVdEbThSZEF6NGd4WFAwbVBOY1JYaVJKRzlBbGF6YzNJWnFZUnRicllndVVmbHdTWDVn?oc=5",
-      "date": "2026-11-22T15:00:00.000Z",
-      "keyword": "câmara frigorífica"
     },
     {
       "title": "Cuiabano disputa vaga na final de reality show com prêmio de R$ 50 mil; vídeo",
@@ -142,13 +177,6 @@
       "keyword": "câmara fria"
     },
     {
-      "title": "Mercado de entrega de alimentos hiperlocal até 2035: densidade urbana e cadeia de frio impulsionam o crescimento - Notícias e Estatísticas",
-      "source": "IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWJmSkY5TU9tYUdfYkh5LUl5QTRlU2plbFNCb292RklnX0pyUGtadUVsOWc2X0pYc0JEMEJ0aXJ0S0xjdGNNbE5KOFZDQkxnUGhsSnk0MEZjR2VaX2ROR3RuLWllZDdCWTd0NEt4Z180QkNnSzk4MGNBSjQtQ1ZyTzR3VzlHcW9vYXhJQzVlOW9LTXNtZUV6RUpOS2ItRlREZ3ZLT3BMdWpnZ1owSmdBRTNYWHJ5V1hUZ3YwQm1BaTNhb0dlaXRsNWVyVDNDa0FrWDkyamRUSG5DQQ?oc=5",
-      "date": "2026-11-20T14:41:04.000Z",
-      "keyword": "frio alimentar"
-    },
-    {
       "title": "Reino Unido corrige falha de geladeiras após ciberataques",
       "source": "SBT News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanE0UF81UGttTUF1Mjd1U0RhWU5tb0tKTWtSck10V2RVenhJODREOEdwZ1kwTWx1UWV4Z01kMnpoZEJweG9hUTNNZHBGelZ4cmdRNUdDNUZtNnAwWE5lT3VjbmEzQjlHOFFoZzhJckpaYTg0TkpWVmVLUHAxal9pWmdBLUoyNmd6N2YtZGloZEw0eHY5b0lEaXhGX3FyeWc?oc=5",
@@ -163,24 +191,24 @@
       "keyword": "câmara frigorífica"
     },
     {
+      "title": "Carga de skunk e maconha avaliada em R$ 5,2 milhões é apreendida em caminhão frigorífico na BR-070, em Cáceres",
+      "source": "Cliquef5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOFBZZXd3WGtNa282S0hpMnBYNjRTbnRzdmdfeTVNdzBoYTYtQ2xlOS1ISTE0Vkh6bkFXel9mamZtdDVqYmpsZS1BYzduTzZoSzFoa2VqLWRUaFphQ3hoNmhEZFRBMkpJcjU2TWxUSW9QYVJMY2RRaTRkekVwbWprR0xDRENVMU16Y09UaEpKZjdaZFk2a1JuTHU4MHRWZTBRdTZGTTdfWVNZeDU0aTlBaHpCMlNDbDRnQWd6NzlCVUZ4RUFndmEwaV80UDMwLW5JV1RfU1pubzQ0UHRsWDUtVU9vSTBKTEU?oc=5",
+      "date": "2026-11-20T11:45:00.000Z",
+      "keyword": "câmara frigorífica"
+    },
+    {
       "title": "Prefeitura disponibiliza 2.709 oportunidades de trabalho, mutirão na Praia do Futuro, atendimento na Expolog e cursos de qualificação pelo Sine",
       "source": "Prefeitura de Fortaleza",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbmJ2TVRUY0duSzhZNTYtSTdIQ2tCOGpLd3NJZG5zMHdDb3ZfZ1BsNGtSN0x6Rnh2WXFYUGNJVHdSdDMtQTdYUjREYlRyd0JtYVVNTnpVMXN2bnBGQjNnbi13YzZaQklJN0ktQ05GRmRFcW5LcFl4eV9nM3QzNktDVnBYWlF0UjFBcjZYWENRRXBTaEhpN01mYXVPSWlpVG92ZWhZazJ4UGF3Z2RPNmJpNTlJSENpTUluTXZZejQzbF81NzgxYUdhcGdOODF4U3U2WHR5cm5XU3VhSUUzZEFjTU5ZX1JUcy1jYUVvTDdjaVVueWc4NEhONjNZaHNqSUdPUzU2Rm9rd3FKbUhJS0tR?oc=5",
       "date": "2026-11-20T10:54:36.000Z",
-      "keyword": "açougue câmara fria"
+      "keyword": "câmara fria"
     },
     {
-      "title": "Gefron apreende 404 tabletes de drogas em caminhão frigorífico em Mato Grosso",
-      "source": "Agua Boa News",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEJDMDhCNkdnaVVqNGhJb2dWYk9iNWlqSjRyQThRTU1zaDI5RWJ5OHdqemdUWllveWJlc1dlMUpuNTRXRjluNlhOTlVRUXp6U2hQZGlhZzVDbVhDclhwcDF1RHhmTnl1NENwTzVxOUR1dExqejdmLU5lTFNIczdEaGVHUjh2ZUFCTHY3YnRlcGxqRlM1R2N5aDRLWDU1eTBvNEZ0d0g0NVdydjFYVlJJdTF3SVlZc3VCNWtBWFRWX0FaRUFFbERnWm81X3hsQU5kbkZNYVBuLWJBaVdzeHc?oc=5",
-      "date": "2026-11-20T03:00:00.000Z",
-      "keyword": "câmara frigorífica"
-    },
-    {
-      "title": "Gefron apreende 404 tabletes de drogas avaliados em R$ 5,2 milhões escondidos em caminhão frigorífico em MT",
-      "source": "Olhar Direto",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlV4VHVfV2JIbUxvYUtsdzlCdjU5MnNBQmlhbDlMNjlZbE1yMDM5ZE01VDJSWlRPTEZfdnpycHJRY1NPYklqMXdrUVZxTG5XTmNIbmRhQUVHeGc1QTBaLTYzVWRWYkl1MVQ4VVlLazQ2LTFJQ1o5SXlQNW5CLXJiVHVEZ1lkOXBfMkJOYTdXNThFSG01OE1iLXhoOVVmU1g5RDVWVFRXTUhXWW9qN1hlVU9GQnl6a3k5WWIyYXdJQ1lUQnZhZF9CR1AzMEp6Y0JmcGI1akgzNHpTUHNQVkE?oc=5",
-      "date": "2026-11-19T23:11:00.000Z",
+      "title": "Cáceres: caminhão frigorífico escondia 404 tabletes de drogas",
+      "source": "CenárioMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVFIaXA4bWFNLWltTXhMbVFKbWxoUkI1ZlE0OURad0dZNHdSYVVzOUFDX1FHT2tDRmxHblc3bHRGVFg0ekVyVWxrQTVfaEEwZzhEaUZicGFwcTVISmZWWGRsODdyQklSQmkyUGw4cTFLekExWVpEUEl1TlRrQ3dBUkFUNGdkUnlIVXFkV3ZwRVNvWmtpOWF4OHhsWm9fMVE2?oc=5",
+      "date": "2026-11-19T22:00:21.000Z",
       "keyword": "câmara frigorífica"
     },
     {
@@ -198,11 +226,11 @@
       "keyword": "cadeia do frio"
     },
     {
-      "title": "Polícia do ES conclui inquérito e procura armeiro suspeito de desviar 52 mil munições para facções",
-      "source": "A Gazeta",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa3c4endNenpETkpxcjFFdHRfT09Zd0ZwLTN2ZE44WXlYelN4eUo2UFJzWlcwMndsWEhnU0lQbGE1SnRWQTJBNFJhbFYtV3RLY1B1MUoyUDJkMFpVcHg1UzNJVTNUSUdZQTl1VlljWVN2UnVSVlI4b1I3ZFpOR2xZblJUcHhYS0hHUUVrdjJ6R2NScFdhdXVvYWNteTZmc3dNZ1ZETTFRcVRWVU5DODA2VllRUGsyY3VJM2ZtWlZ0TzV5cFU2SzAyM21wb2JTbEhUWGlXUlkwdWI?oc=5",
-      "date": "2026-11-19T14:51:00.000Z",
-      "keyword": "câmara fria"
+      "title": "BASF instala Centro de Inovação em Poliuretanos com aporte de R$ 20 milhões em São Bernardo do Campo",
+      "source": "Brasil Inovador",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2V2SVdjTWdfcDZqb2R4OVhlR1ozM1ZCQjdEdEVLYS1mSnQ3bEVYOXBFTUp3OGh1V2g2Qk9NclVmODFaUjRSWkd3SHhiOGdQaW9sUF9kRjFZRm1td1JVVU1NVjludlNjcTU1aXJGbzI5TkJ1MWhaTXNqZTBDb09TYlY1c2FLclFTaXFwN0ZFWkJRdWY4S21iMVprQVBuWUhZYnJmX2ZDWUZrQWtKX00zNDRoMlR6cnNjWmdub285aHplTVhfNFVFS2R3?oc=5",
+      "date": "2026-11-19T03:25:06.000Z",
+      "keyword": "refrigeração comercial"
     },
     {
       "title": "Clima mais frio e chuvoso reduz vendas de bebidas e perecíveis em 2026",
@@ -233,38 +261,31 @@
       "keyword": "cadeia do frio"
     },
     {
-      "title": "Exército assina contrato de R$ 31.950 para adequação elétrica em Maceió",
-      "source": "O Tempo",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOenZyVHVMZE4wZDdhU0lCMzUzUHZ5S0JSSVdwRFg4a1UyY0ZoaTg3SUNxbTA4T1F6Y0hhNmotenNCOU9aWUFXNk53T2x5MmQ3Q1J6MEc2YnZuSkRrMl9FNXVaY3JoSUVuX29VY0pTaFJqVVZnaF9FQm5tWkN1YW9Vd3VCa1VkSXNsYkNWTmhKVjdPcGV0Z3FsckpmMk1MZEQ4MDNyTUxxOG1CZEpmWjNUdHN1c2pfUQ?oc=5",
-      "date": "2026-11-17T23:46:11.000Z",
-      "keyword": "câmara frigorífica"
+      "title": "Brasil fixa prazo para eliminar gases usados em ar-condicionado e geladeiras",
+      "source": "Fatos de Mato Grosso",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGN0MVNFTi1VZlpSbkVoYmFZOFBFQjVMcjdYOTVPNXBMU0NmRDNpMm1mSFMxQzhhWWxpWUR4OUdLYUdMVlR1bzFfQUctRXUyZnE2bWVhbjVlclNlSHU1ODFrRGdmN1FsSklvMXF1QVFZZ0pWYjRkQWIyMWZnenJwNnpCcjRtbXBvbnhSZ2V0SXgzdHhFMUV1MGpKSE4ydUdQa2tjLVMtV2lLVTFlRm5qMGxDWWprZmdpVi1XbmcyemJYRFE?oc=5",
+      "date": "2026-11-17T19:14:00.000Z",
+      "keyword": "manutenção de refrigeração"
     },
     {
-      "title": "Do celular aos data centers: qual é o caminho da Inteligência Artificial?",
-      "source": "MINUTO MT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1dkRHkwdkdFcVJ3S2xyUmVacFFXSVFmV0ZyQ1VEQndKUUFnQlhkOGNlVVZaX0FTQ0ZNbVRSTC1CQmFHZVJhbi00OGVoMGlmaWdSZkxqdDRMTVA5bktETXpUN3VYbVJDTHJZWUVIdUpHeTJCRFF4WGt4VE40UWpPU0RWdi1ZbmxaeW9lZ1JFazZPN2dOMlgtRnJRMGViUXY3RmNJZQ?oc=5",
-      "date": "2026-11-16T18:14:11.000Z",
-      "keyword": "refrigeração industrial"
-    },
-    {
-      "title": "Armacell fornece isolamento a seis obras premiadas em 2026",
-      "source": "Revista do Frio",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjlTbzQtUmoySEItTnVMS2tSSUF1MEMwX08teGwxVGtqOWU2YUN1WV9vallicDZOYkxtc05kblRpY2NOSTgzcERjMW93eEVpa1JSU1lGWUladi1zbl9zTkZrQnRwNmlfc3QzZUNNTzZWY0xCaWlYLU5oQXFkcVppNUY3SEgwR0RJRXRyVUdhUF9vcXRM?oc=5",
-      "date": "2026-11-16T17:59:09.000Z",
-      "keyword": "refrigeração industrial"
-    },
-    {
-      "title": "WEG lança motor W30Slim Smart EC para refrigeração e ventilação",
-      "source": "Revista do Frio",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEhtSWJMN1JYUmF1cXZtdk8zcmVEVTB3NWlaSC0zRkgza1lkcEp4TVNHRUJuU2ZxME1nWVhtYUFZUlRsUUVLM0N1THRFaENGUkxSM1pORVhfUzlMUFVVWGR4SkJwNHVQTEZkY29OLUxOVGVQdmE2SGNjMFJZUXgzNWRtTG5jWVNIR2pzVW5kWQ?oc=5",
-      "date": "2026-11-16T16:14:40.000Z",
-      "keyword": "refrigeração comercial"
+      "title": "Sanga Funda, Cerrito Alegre e Gruppelli estão entre as unidades que terão câmara fria para vacinas",
+      "source": "radiocom.org.br",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVpoWFVCUzJtV1B2bVpaRTFEZzllT1A1aXRFRkdtY1VVc1czR3ZqVzBtTHY0U2FLalFIMnhyY3NOVkZYS1RwQ2tsN0RLRjJZTmRDNXpMRlBGOXRlbTlvZEVqTnJzTkhubTdQNmJyR3d5d3BfNTgwSVZDYUx6ZXF3anB4emRiY1R4LUZadlp1SkxiYWo2c0lDQzMzWjVJRXVWc2NQZjViSEZXbTJOOUJRTGl1VlQ3NWhFdlpPTnRNQ25SNEV0OGtva1NHVDlFanJOMTJ3?oc=5",
+      "date": "2026-11-16T12:55:25.000Z",
+      "keyword": "câmara fria"
     },
     {
       "title": "LG lança seu primeiro freezer horizontal Inverter no Brasil",
       "source": "Blog do Frio",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTlTZWc2VE55bE1wN0c0cTN5bDdGUmtLX1JkVG1qeGN2d3c5STdHZzBxSlJxTnNDclpjYWdIbzVKaEo2bUVtWUdZVUY3RlBFZ0tEX3NjUVVVNGExUGlDMFJKMzc3dzZUU0U5ZlYtVEdNTHBiUUM4MER4dWtrclJFekV3amVBdXZneGZnZ1R3SQ?oc=5",
       "date": "2026-11-14T13:19:53.000Z",
+      "keyword": "frio alimentar"
+    },
+    {
+      "title": "Famílias de Gaza lutam contra inundações e frio sob cerco de Israel",
+      "source": "Jornal Toda Palavra",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa0xoc25GMUNaWGhQNFBiU1dkdXA1TW4ya2JmcVRjMnE4YVE1SkJmZE50TFladHk1aFo1RkZ6XzZPV0tpa2pzb3NKYTNENTlPSFR5cWtKV1RHa2ZuWFVSd2NValpLbXNzMHRMMEVFQjRGZ2FpbWgtcXNZYTRydkllZEdneGMtZEc3RWFTSmRxUmxrSms4MEs1b2Y2VnY3SzlMWXE1YUc0MHlRdnVidkpVdmxDNmR5WXF5dU5NWXhnTEtQQ2Y2a2lCSWZ1d2tUbTQ?oc=5",
+      "date": "2026-11-14T12:03:14.000Z",
       "keyword": "frio alimentar"
     },
     {
@@ -275,39 +296,25 @@
       "keyword": "frio alimentar"
     },
     {
-      "title": "Quais são os caminhos para a eficiência energética?",
-      "source": "Agência de Notícias da Indústria",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjEwRmdBck5GSldKQTZlaVlyZDUxUGhlSzVYNzR2eHoxblh4NHFISzdROU9qYzZpVkxtekxGM0IxcnNDRlN3SVl6QjlWaXdycC1Da3R2YWNURW0xWWlHTFZGYXZfUTVKbjBPcS1pSnJodDBqZUgyT1E3ZTM5MXoyT1RxcXVBaHRNRThYNVJzRkdSOWt4bW9yc0pTb0ltbHVsUEljVkJOajhmRXlWT1pJc0pfclYtanhRYXMw?oc=5",
-      "date": "2026-11-14T08:00:00.000Z",
-      "keyword": "refrigeração industrial"
+      "title": "Sous-vide (sob vácuo) em duas etapas: uma pequena mudança no processo pode revolucionar a qualidade da carne de frango?",
+      "source": "Food Safety Brazil",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWZiWVY2a3puRGtSY2Z0c2N1RmZONWpKdV92VlpsYVplX2JKdzZlSXQzVFZia3Y4cW03UVQ5cE03Snh4RmdEcEd0bTdyWW1keVBJTkE4U1hmU0NHb3hpemxESXBrZ3J1UFBkSXNGQk42NXR3YlNBazlZQ1JGRnhFY3NsNXZEa0pJNW1zX1JvUUpJRGZhdU5JSDBFbHM0YXk1Qi00dUJjdDR3eEpmM2I5cUJDQzRmRnN1Q29sZGFRaGpudFVTR0t4czUzS0QwdHlIZG8yd0dRSVh2bUJzR3c?oc=5",
+      "date": "2026-11-13T11:17:48.000Z",
+      "keyword": "frio alimentar"
     },
     {
-      "title": "Maicon Nogueira denuncia precariedade em abrigo de adolescentes e cobra resposta urgente da Prefeitura",
-      "source": "Câmara Municipal de Campo Grande",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xbFVLZGZyZkFublZSbUdGd3VyMEo5eWhFSERxR3JHQnNNUFRZUHVPb01lbldXQjBlaFFGOUxyYjFhLVlka3lPMTd5aHBocHpMZFR5NzMwcW11SWIxeWFER3hLeWVvNHJlOE9sMkRB?oc=5",
-      "date": "2026-11-13T15:09:00.000Z",
+      "title": "Temporal com granizo em Indaiatuba derruba 70 árvores e destrói lavouras e câmara fria",
+      "source": "G1",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONV9UUWFGUFJhYzJtRlhxVzduNFdNS3F4akNHaldDR3dlVEtPd19Vb3ZISjJPcl9nR2puYWxJcVA2Y3d0bGhteWZQbEhmaFBSZTBoTk00QlNpTFpkVUlYaU1EUEJzMFQ0SXpVWURPbnI2UkwtelM0UnR3WHRicVhRZmZRUFI4WC01WjVtZlVFSkNoVUpDQVdVbFZiZXdOZEJBNzlkaGdQbHhPODVDeHdYazRBWnVIM0pwR1FWWGRoWXhUaF9wb0Jwc2ttWVVPUU9rTWJWOVVLZXRLTm5hY0hPaDJfUV9HQUQ1Vi1lN1l5RlR0LUFXWWEyZlFYNnVWR1NVNnIwQkFqQUlNRFRqcjdBLUlqU3JVeWVYX1Br0gGqAkFVX3lxTE1UR201WnhHUjg0dzhjaGZsdUlfUFFDU2lFV3dNRThfMGt2dE5oUW5vQWZCNjBENE9lRTlhUTkwY0xiN0tKbGRYdVBueGQ1NkxFRmlpbUR6bUpURTloOUNtTHNFUEVwRkJ2UmFEV2xXX1hJOUF3T0FMUzlZbXdWVmFNajFOWWR1X2ZPT1o2VzlnbDF6M3h2QThqWFItbzR0Q09GRlNTNlE2S3RXSE1SYmFjVHhJczE3eDlualJWbjlIMloyV05fTGl5ZlE3Wktxanp1Z1BiUW5RNnBlcVVXcktTS1dpdlJVMlhjbWx1WW9hY2I2bGw1ZE41N0JkRnZ3ZlBkZms4aE8tRFlwdGFMWjJxZDVzOTBrMl92RmZVbXFodFhLSmhROF9IM3c?oc=5",
+      "date": "2026-11-13T08:00:00.000Z",
       "keyword": "câmara fria"
     },
     {
       "title": "Eficiência energética: como reduzir custos e adaptar-se às novas regras",
       "source": "FecomercioSP",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3FxSEhpQlk1S1RfZTBtaEpHeGEtdmRFS1p1LW1BUnFaQTJnYkplczlwNy1laWlGdmNJQWlIVnlPN05jdi00Z3RoRnJlWFVhQkdNTGp1VEI4Nm9YR0FLRjVtcHFsZnQ0NjY5VzZjeEN2aVJoWGw4S1JPZFNOSVlNSUhIQl9XMmFCNXhXQkc5S2kydF92NWhlR0YyMjJXU3VLYm5uajEwby1XU1RpQUpFVDUzY04?oc=5",
-      "date": "2026-11-13T14:07:47.000Z",
+      "date": "2026-11-13T08:00:00.000Z",
       "keyword": "refrigeração comercial"
-    },
-    {
-      "title": "Fórum de Cuiabá suspende atendimento presencial nesta sexta-feira para manutenção do sistema de ar-condicionado",
-      "source": "Infoverus",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzFBWnBSUjB1MEQ2OVNjSzNDU2V5OGRtakdPb1lLb0hLVlcydVY2VUdzcUtRMk5BSG0yRVB4MnIzTi1waDUxT0RxdlFGYm9UN2FmbllEdXpINkdzakJ2RmkzSTg2bmtWYVZ4NzB5eTFRbGstMUNVWlo1QUlGcEs5Nk9tT2Z5dlpjT0k3ZHNLallGM090alpmcG9VVnZzN0pkcTEyNjFNVDFySzUzcVVRd1N2VkdWdDhKT2FKdmk5Tk1ZWU0yZVZsWTNSWndFZmF5a2FDZ3JtbC1teFhDZUVzRkQxUHQ3OEJqdTlNOS1B?oc=5",
-      "date": "2026-11-13T12:19:00.000Z",
-      "keyword": "manutenção de refrigeração"
-    },
-    {
-      "title": "Sous-vide (sob vácuo) em duas etapas: uma pequena mudança no processo pode revolucionar a qualidade da carne de frango?",
-      "source": "Food Safety Brazil",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWZiWVY2a3puRGtSY2Z0c2N1RmZONWpKdV92VlpsYVplX2JKdzZlSXQzVFZia3Y4cW03UVQ5cE03Snh4RmdEcEd0bTdyWW1keVBJTkE4U1hmU0NHb3hpemxESXBrZ3J1UFBkSXNGQk42NXR3YlNBazlZQ1JGRnhFY3NsNXZEa0pJNW1zX1JvUUpJRGZhdU5JSDBFbHM0YXk1Qi00dUJjdDR3eEpmM2I5cUJDQzRmRnN1Q29sZGFRaGpudFVTR0t4czUzS0QwdHlIZG8yd0dRSVh2bUJzR3c?oc=5",
-      "date": "2026-11-13T11:17:48.000Z",
-      "keyword": "frio alimentar"
     },
     {
       "title": "Samsung negocia compra de empresa de refrigeração para data centers",
@@ -317,13 +324,6 @@
       "keyword": "refrigeração comercial"
     },
     {
-      "title": "Rede Bom Lugar reinaugura supermercado em São Miguel Arcanjo (SP)",
-      "source": "Giro News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFVHQmJTcGVxOGVlVWc2SDRlSlRQd3NHNG9Bb2VBVDE1WkpIQ3RoLWFBcWNNekZ4OXo4QWN4VUVxT1JUM3RsUXN0X3pCWjRZbGo1blR0dDhQNW9JY1FaSkhRVnBQZDJZU1pUUW1aNVF4TFpGX1BSelFZZnJaQ0JvMzF6SnNZQXFGSmdNOUE0NUN0WFQx?oc=5",
-      "date": "2026-11-13T08:00:00.000Z",
-      "keyword": "câmara frigorífica"
-    },
-    {
       "title": "Digitalização leva a experiência do açougue para além das lojas físicas",
       "source": "SuperVarejo",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVRnSEU3OWc0dEVTSVlGODRaZGRkd0NBNE85bHNiamtqcFliZVZZTUYwbzMtQTlKdDZHTl84QWVvcTdJalRBM3J2SDdabXROdUt4anBzbmRiUUNRSDdVeG1fQkZ0dTFLREhGT2ZudEpzYnhmcmJuVUt3YkhqTUlCOGxMSzVEcjBtNzZldFFhbmZHSG9MbDhya0pkbklWSERFVl9HckxhMy1qUURsYVBQaQ?oc=5",
@@ -331,46 +331,11 @@
       "keyword": "açougue câmara fria"
     },
     {
-      "title": "Sine Manaus oferta 824 vagas de emprego nesta sexta-feira, 13/11",
-      "source": "Prefeitura de Manaus",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUTE0V05kTFpIXzhXMzhrWkx0Vk0wN1otMUVHUWExOV9NZ2FrbV9STXFqNXJUWUJXOGdNdkNMOHlLWGM0cTRRRl9PWHllaEJaS0VhanY1UVVCR1BLczZaU2daUTE5ZWVpakZ4VXI3MFBNY3pUTmRXbDNBcHlyRUpfcEl2T1hMVERubTRr?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "refrigeração comercial"
-    },
-    {
-      "title": "Hoje celebramos o Dia do Supermercadista, uma data especial para homenagear quem move a economia e abastece diariamente os lares de todo o país. Por trás das grandes e pequenas redes do Brasil, existem famílias supermercadistas com histórias ins",
-      "source": "Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96WXI0aDlzLWIycEZmalJyTWFLT3lyRV9leHBOTmc5d2JwaHpLWUdIZXpfUldRTmVtSllOY1ZzVFI5T09UcTBZNWhCQm9JX2xvNGN3bmln?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "refrigeração comercial"
-    },
-    {
-      "title": "STM condena militares por furtarem 11 toneladas de carne do Exército",
-      "source": "CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONk8xdWJtSktzV0F1YWNIZ1Q0cFQwVmFxTEpRYW9udUZzUloyU3ZDVjBoNVNzZktzX3hzcGtMdjhha0Y4TERtcWQ4M0JNaFV0M19xcmJxOE05RGVINXBfWE1BS2xKdUVzNGhjSGxzc3JRcnpDZENEcVVoSDRGRVZ5NXBYRXpTeWVOV09YN1ZmMEdjanV4WFp6TjM3X0lYX0pWaFRKNGFhWlhTUVRPZHc?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "câmara frigorífica"
-    },
-    {
-      "title": "STM condena quarto militar por furto de 11 toneladas de carne em quartel do Exército",
-      "source": "Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUFENklITDFaUzRJVDhTaHA3cXUyM3dlWnpvYTNDQjZOZ2Z2dmM3UU15SHhycUZmX1hrLTFkUHlOMlduRzJnbWpqNS1NZGVUN2hCSHZ4Y2pqeExfejA4OG5XQ3JHN2pVN2d1NTdfYUhPME50azd3OS1lRW5JbDg4Mnd2ZkZNUkNZS2dpTkdEYi1WZ3JfS3FXLVQydWhmY0tQY3l4QzlfSktiTlZiWUpmTGgyMGhWc2xOeGRycDhZVFo4R1FNUERjdjdVbnRiZ1o0ZVByeVBR0gHbAUFVX3lxTFBjUzgwWE1sRm1Ydm5xOTB4QS0wajdVOFdjYV9HeGJ3X2o5dUNaOXlBdm5id3dQZUQyYVV3UURoU25faVAxQTBmV19OTUZVQnR5Z0J2MXpIY0p3dFg3dno0bTR6cGNIdC1ya2gwYlpfcGhkbTBMSDdidzFZdnZwelZ2QTYxQVRSVVNNTnhTbi1OTWFtaEJzbXVNVkRkZXNMX0NMZVhLMUlGd2RTTFlsMVlEazJDY3luTC1nTExYTXd0RTJQbkt5c2dyV1gzeDRWUFN5ZmhnZ19JUUVPNA?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "câmara frigorífica"
-    },
-    {
-      "title": "Renata Saldanha, campeã do BBB, se surpreende com queimaduras na mão após frio em viagem: 'Não tá dando'",
-      "source": "Gshow",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemZrWEFrN0k2NjZyRnBfaDlnanJwSDE5UWM5WFZoUlJTWjJHamR2dy1Zb2dzOTBncV9rQVVUb0g1TXlfYzkzSnRrTzdRUGRra1ZjdmRGUks3T2t0X090RV9uN1M1Y2U2V04xYXNjYXlzc1hVTnpIVlFlNy1SMkNtTkVJcUxucGpRNWRnVm5IQVhIdXo0ZU1pRkg3VG05em16WGpadzFqTnZHZGZhRi1oQnR4bXc5aWJMX1Z3Q1Nzam5PMkhWZTZFak84M2kwSEZfQnRmaDZoTi1RVkli0gHrAUFVX3lxTE5ZVkgzRFZ4NzJIWlVGUEJOdm5ra1VFdkRLNktfWTBWeWY5R2N1bUNnbUV5Mk9ZTEdONzVfUERoQzBneXUtWlc5TWUxYmlGYnl1dFpjWkdYMkxLWjJaZEV5dE15clAwZl9CdkMxYmt3cUd4Qy1NU2d2SXdid2hqbzdLWC1CMlljcTVudmRWd1ZKTkdNSmlza2FPRUFmZTBQY2huTWlyYjdZREpWSVlIRFdVZXhBN1lzS1lNS0pGdU1rQ0thcVVGZHhlc1oyYkd0clBha0dnaUo0Yk1EM05aTVA4b3JrQW12SkxqX3c?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "frio alimentar"
-    },
-    {
-      "title": "Companhia Municipal de Transportes Coletivos do Rio de Janeiro abre concurso com 63 vagas temporárias",
-      "source": "Qconcursos Folha Dirigida",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeU1FNVg5ZWs1cFIyenNpeUpDRjBHTkdxbmNuZ2xZd2V5TnZyV1BCRG9VaVd5bmJZYUFobXBCeTl6a1NSel9jQ05hRDFFSmotb1hGLVhFOVpIWFBYUkE5ZzJnZHhsVkZWTXo3aFd3aWwxb29zUUI3Y2lzOWxQWmZ5ZFBianp3NUJId0RvTzZaUW93bHRwYmZSV253Wk1TX0g1RzVISWZPSVNXZm40SlpOandhcFJFcGZGa3hUcm8xSllNX2piVXJJVkVKdmI?oc=5",
-      "date": "2026-11-12T08:00:00.000Z",
-      "keyword": "manutenção de refrigeração"
+      "title": "Suspeita de vazamento de amônia em frigorífico leva três trabalhadores ao hospital em Lucas do Rio Verde",
+      "source": "Spz Online",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVBNeUtBTllHTDhCSUpGWmg4YVd1NnJ6NVQ4WXpHc2NuTFlDYS1URXEyYnRBMS05ZVZOQUFaNXlFNE1na1pOME15ejV4YzJxVk5BRi1MaDl5S21sck52NzVuUVgzLUpJaEpQeFNsR0hubGxoZkdoeW1DLW9xMHBpN0ZwSUpIc3ZHdVVaeWkyeHo3aGM3MFIwVURCanM0UjV5OWJQNC14SElyZ3RpdXllTDN1MVNUb1IwVFA3cGhtTGFUV3JEMTBBcUxKZXBtOEdPZENuWlhGYmY?oc=5",
+      "date": "2026-11-12T18:19:00.000Z",
+      "keyword": "refrigeração industrial"
     }
   ]
 }
